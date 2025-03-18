@@ -1,0 +1,10002 @@
+[
+  {
+    "shoeDetails": {
+      "shoe_id": 1,
+      "size": 11,
+      "brand": "Puma",
+      "price": 62.74,
+      "style": "Basketball",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 2,
+      "size": 14,
+      "brand": "Puma",
+      "price": 201.24,
+      "style": "Walking",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 3,
+      "size": 8,
+      "brand": "Puma",
+      "price": 170.04,
+      "style": "Basketball",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 4,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 137.31,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 5,
+      "size": 14,
+      "brand": "Nike",
+      "price": 143.16,
+      "style": "Basketball",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 6,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 147.53,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 7,
+      "size": 12,
+      "brand": "Nike",
+      "price": 126.89,
+      "style": "Casual",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 8,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 91.56,
+      "style": "Soccer",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 9,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 162.64,
+      "style": "Running",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 10,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 98.0,
+      "style": "Soccer",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 11,
+      "size": 9,
+      "brand": "Under Armour",
+      "price": 198.22,
+      "style": "Soccer",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 12,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 194.37,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 13,
+      "size": 9,
+      "brand": "Adidas",
+      "price": 98.98,
+      "style": "Soccer",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 14,
+      "size": 8,
+      "brand": "Nike",
+      "price": 210.38,
+      "style": "Casual",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 15,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 157.63,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 16,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 73.95,
+      "style": "Running",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 17,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 138.61,
+      "style": "Training",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 18,
+      "size": 9,
+      "brand": "Nike",
+      "price": 79.87,
+      "style": "Running",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 19,
+      "size": 13,
+      "brand": "Nike",
+      "price": 197.12,
+      "style": "Running",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 20,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 72.8,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 21,
+      "size": 13,
+      "brand": "Nike",
+      "price": 131.44,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 22,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 97.18,
+      "style": "Basketball",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 23,
+      "size": 12,
+      "brand": "Under Armour",
+      "price": 119.49,
+      "style": "Basketball",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 24,
+      "size": 8,
+      "brand": "Puma",
+      "price": 134.15,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 25,
+      "size": 12,
+      "brand": "Puma",
+      "price": 83.96,
+      "style": "Training",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 26,
+      "size": 9,
+      "brand": "Nike",
+      "price": 121.51,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 27,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 80.19,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 28,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 224.87,
+      "style": "Walking",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 29,
+      "size": 8,
+      "brand": "Nike",
+      "price": 228.04,
+      "style": "Soccer",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 30,
+      "size": 12,
+      "brand": "Adidas",
+      "price": 120.97,
+      "style": "Training",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 31,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 95.77,
+      "style": "Basketball",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 32,
+      "size": 11,
+      "brand": "Puma",
+      "price": 76.49,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 33,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 145.66,
+      "style": "Basketball",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 34,
+      "size": 14,
+      "brand": "Reebok",
+      "price": 170.12,
+      "style": "Basketball",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 35,
+      "size": 9,
+      "brand": "Under Armour",
+      "price": 190.48,
+      "style": "Casual",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 36,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 114.07,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 37,
+      "size": 9,
+      "brand": "Under Armour",
+      "price": 88.42,
+      "style": "Walking",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 38,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 194.25,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 39,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 116.91,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 40,
+      "size": 10,
+      "brand": "Nike",
+      "price": 210.28,
+      "style": "Basketball",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 41,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 242.77,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 42,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 59.19,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 43,
+      "size": 9,
+      "brand": "Adidas",
+      "price": 167.35,
+      "style": "Casual",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 44,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 83.18,
+      "style": "Training",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 45,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 182.18,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 46,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 66.59,
+      "style": "Walking",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 47,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 103.18,
+      "style": "Basketball",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 48,
+      "size": 9,
+      "brand": "Nike",
+      "price": 189.0,
+      "style": "Basketball",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 49,
+      "size": 13,
+      "brand": "Puma",
+      "price": 184.14,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 50,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 191.51,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 51,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 77.87,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 52,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 75.62,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 53,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 225.84,
+      "style": "Walking",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 54,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 64.99,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 55,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 234.75,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 56,
+      "size": 10,
+      "brand": "Nike",
+      "price": 120.49,
+      "style": "Training",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 57,
+      "size": 9,
+      "brand": "Nike",
+      "price": 169.43,
+      "style": "Soccer",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 58,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 206.97,
+      "style": "Basketball",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 59,
+      "size": 9,
+      "brand": "Puma",
+      "price": 70.03,
+      "style": "Running",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 60,
+      "size": 14,
+      "brand": "Reebok",
+      "price": 93.35,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 61,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 83.99,
+      "style": "Basketball",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 62,
+      "size": 13,
+      "brand": "Puma",
+      "price": 181.47,
+      "style": "Soccer",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 63,
+      "size": 13,
+      "brand": "Nike",
+      "price": 214.61,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 64,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 117.81,
+      "style": "Basketball",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 65,
+      "size": 8,
+      "brand": "Nike",
+      "price": 144.65,
+      "style": "Training",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 66,
+      "size": 8,
+      "brand": "Nike",
+      "price": 188.05,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 67,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 211.21,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 68,
+      "size": 14,
+      "brand": "Nike",
+      "price": 86.3,
+      "style": "Training",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 69,
+      "size": 12,
+      "brand": "Nike",
+      "price": 192.39,
+      "style": "Casual",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 70,
+      "size": 11,
+      "brand": "Nike",
+      "price": 91.65,
+      "style": "Soccer",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 71,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 132.48,
+      "style": "Running",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 72,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 112.65,
+      "style": "Running",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 73,
+      "size": 14,
+      "brand": "Reebok",
+      "price": 186.07,
+      "style": "Soccer",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 74,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 188.92,
+      "style": "Walking",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 75,
+      "size": 11,
+      "brand": "Puma",
+      "price": 140.27,
+      "style": "Casual",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 76,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 88.71,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 77,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 240.74,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 78,
+      "size": 14,
+      "brand": "Reebok",
+      "price": 222.44,
+      "style": "Running",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 79,
+      "size": 9,
+      "brand": "Under Armour",
+      "price": 126.4,
+      "style": "Training",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 80,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 123.9,
+      "style": "Walking",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 81,
+      "size": 10,
+      "brand": "Nike",
+      "price": 118.43,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 82,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 56.91,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 83,
+      "size": 14,
+      "brand": "Puma",
+      "price": 87.62,
+      "style": "Walking",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 84,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 189.18,
+      "style": "Soccer",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 85,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 215.5,
+      "style": "Casual",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 86,
+      "size": 9,
+      "brand": "Adidas",
+      "price": 140.26,
+      "style": "Basketball",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 87,
+      "size": 14,
+      "brand": "Reebok",
+      "price": 184.07,
+      "style": "Walking",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 88,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 197.65,
+      "style": "Walking",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 89,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 103.6,
+      "style": "Training",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 90,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 124.97,
+      "style": "Running",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 91,
+      "size": 12,
+      "brand": "Nike",
+      "price": 197.49,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 92,
+      "size": 13,
+      "brand": "Nike",
+      "price": 159.03,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 93,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 215.35,
+      "style": "Basketball",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 94,
+      "size": 13,
+      "brand": "Puma",
+      "price": 199.7,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 95,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 168.07,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 96,
+      "size": 10,
+      "brand": "Nike",
+      "price": 214.89,
+      "style": "Basketball",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 97,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 64.42,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 98,
+      "size": 8,
+      "brand": "Puma",
+      "price": 99.82,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 99,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 125.37,
+      "style": "Running",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 100,
+      "size": 9,
+      "brand": "Under Armour",
+      "price": 54.5,
+      "style": "Casual",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 101,
+      "size": 12,
+      "brand": "Under Armour",
+      "price": 59.71,
+      "style": "Casual",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 102,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 109.76,
+      "style": "Soccer",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 103,
+      "size": 11,
+      "brand": "Nike",
+      "price": 73.25,
+      "style": "Basketball",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 104,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 174.79,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 105,
+      "size": 14,
+      "brand": "Puma",
+      "price": 151.31,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 106,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 140.14,
+      "style": "Walking",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 107,
+      "size": 10,
+      "brand": "Nike",
+      "price": 129.09,
+      "style": "Running",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 108,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 203.43,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 109,
+      "size": 13,
+      "brand": "Puma",
+      "price": 145.5,
+      "style": "Running",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 110,
+      "size": 14,
+      "brand": "Puma",
+      "price": 88.86,
+      "style": "Casual",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 111,
+      "size": 14,
+      "brand": "Puma",
+      "price": 89.77,
+      "style": "Running",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 112,
+      "size": 12,
+      "brand": "Nike",
+      "price": 233.16,
+      "style": "Running",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 113,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 103.93,
+      "style": "Running",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 114,
+      "size": 11,
+      "brand": "Nike",
+      "price": 157.67,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 115,
+      "size": 11,
+      "brand": "Nike",
+      "price": 105.55,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 116,
+      "size": 9,
+      "brand": "Adidas",
+      "price": 61.72,
+      "style": "Walking",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 117,
+      "size": 12,
+      "brand": "Nike",
+      "price": 75.73,
+      "style": "Running",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 118,
+      "size": 11,
+      "brand": "Puma",
+      "price": 152.24,
+      "style": "Training",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 119,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 195.45,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 120,
+      "size": 9,
+      "brand": "Under Armour",
+      "price": 57.18,
+      "style": "Walking",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 121,
+      "size": 10,
+      "brand": "Puma",
+      "price": 98.45,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 122,
+      "size": 10,
+      "brand": "Nike",
+      "price": 229.17,
+      "style": "Training",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 123,
+      "size": 9,
+      "brand": "Nike",
+      "price": 242.58,
+      "style": "Training",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 124,
+      "size": 10,
+      "brand": "Nike",
+      "price": 170.95,
+      "style": "Basketball",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 125,
+      "size": 14,
+      "brand": "Nike",
+      "price": 124.7,
+      "style": "Basketball",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 126,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 93.71,
+      "style": "Basketball",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 127,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 70.64,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 128,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 131.32,
+      "style": "Training",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 129,
+      "size": 13,
+      "brand": "Puma",
+      "price": 126.67,
+      "style": "Running",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 130,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 220.35,
+      "style": "Basketball",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 131,
+      "size": 12,
+      "brand": "Under Armour",
+      "price": 59.55,
+      "style": "Casual",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 132,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 59.79,
+      "style": "Casual",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 133,
+      "size": 11,
+      "brand": "Nike",
+      "price": 114.43,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 134,
+      "size": 14,
+      "brand": "Puma",
+      "price": 94.95,
+      "style": "Soccer",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 135,
+      "size": 8,
+      "brand": "Puma",
+      "price": 135.73,
+      "style": "Running",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 136,
+      "size": 12,
+      "brand": "Under Armour",
+      "price": 51.89,
+      "style": "Basketball",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 137,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 190.49,
+      "style": "Running",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 138,
+      "size": 9,
+      "brand": "Nike",
+      "price": 95.09,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 139,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 165.62,
+      "style": "Casual",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 140,
+      "size": 8,
+      "brand": "Puma",
+      "price": 146.42,
+      "style": "Training",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 141,
+      "size": 12,
+      "brand": "Puma",
+      "price": 169.96,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 142,
+      "size": 8,
+      "brand": "Nike",
+      "price": 91.41,
+      "style": "Running",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 143,
+      "size": 12,
+      "brand": "Under Armour",
+      "price": 111.25,
+      "style": "Soccer",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 144,
+      "size": 12,
+      "brand": "Nike",
+      "price": 62.83,
+      "style": "Casual",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 145,
+      "size": 12,
+      "brand": "Adidas",
+      "price": 144.9,
+      "style": "Walking",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 146,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 175.1,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 147,
+      "size": 8,
+      "brand": "Nike",
+      "price": 120.52,
+      "style": "Basketball",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 148,
+      "size": 9,
+      "brand": "Adidas",
+      "price": 119.41,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 149,
+      "size": 9,
+      "brand": "Adidas",
+      "price": 79.05,
+      "style": "Training",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 150,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 60.38,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 151,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 97.56,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 152,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 86.66,
+      "style": "Casual",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 153,
+      "size": 10,
+      "brand": "Puma",
+      "price": 62.87,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 154,
+      "size": 9,
+      "brand": "Puma",
+      "price": 60.64,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 155,
+      "size": 14,
+      "brand": "Reebok",
+      "price": 167.7,
+      "style": "Walking",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 156,
+      "size": 14,
+      "brand": "Reebok",
+      "price": 246.9,
+      "style": "Running",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 157,
+      "size": 11,
+      "brand": "Nike",
+      "price": 99.78,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 158,
+      "size": 14,
+      "brand": "Nike",
+      "price": 81.79,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 159,
+      "size": 14,
+      "brand": "Nike",
+      "price": 144.9,
+      "style": "Running",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 160,
+      "size": 14,
+      "brand": "Reebok",
+      "price": 221.96,
+      "style": "Running",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 161,
+      "size": 11,
+      "brand": "Puma",
+      "price": 204.87,
+      "style": "Basketball",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 162,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 102.6,
+      "style": "Walking",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 163,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 243.75,
+      "style": "Running",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 164,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 245.81,
+      "style": "Casual",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 165,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 204.43,
+      "style": "Walking",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 166,
+      "size": 9,
+      "brand": "Under Armour",
+      "price": 50.7,
+      "style": "Walking",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 167,
+      "size": 8,
+      "brand": "Nike",
+      "price": 104.2,
+      "style": "Soccer",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 168,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 86.56,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 169,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 91.85,
+      "style": "Casual",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 170,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 176.27,
+      "style": "Casual",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 171,
+      "size": 12,
+      "brand": "Adidas",
+      "price": 121.14,
+      "style": "Walking",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 172,
+      "size": 12,
+      "brand": "Nike",
+      "price": 169.9,
+      "style": "Walking",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 173,
+      "size": 14,
+      "brand": "Nike",
+      "price": 236.95,
+      "style": "Soccer",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 174,
+      "size": 14,
+      "brand": "Puma",
+      "price": 103.65,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 175,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 78.1,
+      "style": "Basketball",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 176,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 174.02,
+      "style": "Casual",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 177,
+      "size": 14,
+      "brand": "Nike",
+      "price": 93.96,
+      "style": "Training",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 178,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 117.74,
+      "style": "Walking",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 179,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 124.98,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 180,
+      "size": 13,
+      "brand": "Nike",
+      "price": 240.66,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 181,
+      "size": 12,
+      "brand": "Puma",
+      "price": 210.43,
+      "style": "Casual",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 182,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 166.78,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 183,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 198.7,
+      "style": "Training",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 184,
+      "size": 9,
+      "brand": "Nike",
+      "price": 121.81,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 185,
+      "size": 14,
+      "brand": "Puma",
+      "price": 64.23,
+      "style": "Casual",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 186,
+      "size": 9,
+      "brand": "Nike",
+      "price": 147.63,
+      "style": "Casual",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 187,
+      "size": 14,
+      "brand": "Puma",
+      "price": 212.95,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 188,
+      "size": 14,
+      "brand": "Nike",
+      "price": 184.83,
+      "style": "Walking",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 189,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 175.21,
+      "style": "Running",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 190,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 134.05,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 191,
+      "size": 10,
+      "brand": "Puma",
+      "price": 198.11,
+      "style": "Running",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 192,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 71.05,
+      "style": "Walking",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 193,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 132.9,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 194,
+      "size": 9,
+      "brand": "Puma",
+      "price": 97.16,
+      "style": "Soccer",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 195,
+      "size": 12,
+      "brand": "Adidas",
+      "price": 84.2,
+      "style": "Soccer",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 196,
+      "size": 12,
+      "brand": "Puma",
+      "price": 206.45,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 197,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 214.05,
+      "style": "Walking",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 198,
+      "size": 9,
+      "brand": "Puma",
+      "price": 189.7,
+      "style": "Walking",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 199,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 207.37,
+      "style": "Walking",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 200,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 91.74,
+      "style": "Basketball",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 201,
+      "size": 12,
+      "brand": "Under Armour",
+      "price": 79.1,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 202,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 177.93,
+      "style": "Running",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 203,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 162.28,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 204,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 98.69,
+      "style": "Training",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 205,
+      "size": 10,
+      "brand": "Puma",
+      "price": 124.68,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 206,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 62.76,
+      "style": "Walking",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 207,
+      "size": 8,
+      "brand": "Puma",
+      "price": 121.17,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 208,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 105.66,
+      "style": "Soccer",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 209,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 211.71,
+      "style": "Walking",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 210,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 243.56,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 211,
+      "size": 8,
+      "brand": "Nike",
+      "price": 249.15,
+      "style": "Basketball",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 212,
+      "size": 9,
+      "brand": "Nike",
+      "price": 214.77,
+      "style": "Soccer",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 213,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 163.38,
+      "style": "Running",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 214,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 70.28,
+      "style": "Basketball",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 215,
+      "size": 10,
+      "brand": "Puma",
+      "price": 152.15,
+      "style": "Casual",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 216,
+      "size": 10,
+      "brand": "Puma",
+      "price": 86.68,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 217,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 80.95,
+      "style": "Casual",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 218,
+      "size": 11,
+      "brand": "Nike",
+      "price": 223.93,
+      "style": "Casual",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 219,
+      "size": 11,
+      "brand": "Nike",
+      "price": 125.96,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 220,
+      "size": 13,
+      "brand": "Nike",
+      "price": 242.24,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 221,
+      "size": 9,
+      "brand": "Nike",
+      "price": 85.51,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 222,
+      "size": 14,
+      "brand": "Puma",
+      "price": 217.02,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 223,
+      "size": 12,
+      "brand": "Puma",
+      "price": 72.2,
+      "style": "Soccer",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 224,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 174.47,
+      "style": "Soccer",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 225,
+      "size": 14,
+      "brand": "Nike",
+      "price": 104.64,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 226,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 224.03,
+      "style": "Casual",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 227,
+      "size": 12,
+      "brand": "Adidas",
+      "price": 228.83,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 228,
+      "size": 9,
+      "brand": "Nike",
+      "price": 101.64,
+      "style": "Basketball",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 229,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 176.33,
+      "style": "Running",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 230,
+      "size": 9,
+      "brand": "Puma",
+      "price": 199.92,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 231,
+      "size": 14,
+      "brand": "Puma",
+      "price": 75.58,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 232,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 136.29,
+      "style": "Running",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 233,
+      "size": 12,
+      "brand": "Under Armour",
+      "price": 209.43,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 234,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 63.29,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 235,
+      "size": 9,
+      "brand": "Puma",
+      "price": 121.07,
+      "style": "Basketball",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 236,
+      "size": 13,
+      "brand": "Puma",
+      "price": 81.53,
+      "style": "Running",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 237,
+      "size": 12,
+      "brand": "Puma",
+      "price": 79.19,
+      "style": "Casual",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 238,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 220.66,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 239,
+      "size": 10,
+      "brand": "Puma",
+      "price": 186.31,
+      "style": "Running",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 240,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 130.63,
+      "style": "Basketball",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 241,
+      "size": 11,
+      "brand": "Puma",
+      "price": 220.54,
+      "style": "Running",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 242,
+      "size": 12,
+      "brand": "Puma",
+      "price": 204.14,
+      "style": "Training",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 243,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 176.25,
+      "style": "Running",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 244,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 80.25,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 245,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 135.63,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 246,
+      "size": 8,
+      "brand": "Puma",
+      "price": 68.75,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 247,
+      "size": 13,
+      "brand": "Puma",
+      "price": 224.66,
+      "style": "Casual",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 248,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 154.11,
+      "style": "Basketball",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 249,
+      "size": 10,
+      "brand": "Nike",
+      "price": 161.21,
+      "style": "Walking",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 250,
+      "size": 12,
+      "brand": "Nike",
+      "price": 54.37,
+      "style": "Training",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 251,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 153.95,
+      "style": "Training",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 252,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 126.85,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 253,
+      "size": 11,
+      "brand": "Puma",
+      "price": 109.15,
+      "style": "Basketball",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 254,
+      "size": 11,
+      "brand": "Nike",
+      "price": 244.27,
+      "style": "Training",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 255,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 169.4,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 256,
+      "size": 9,
+      "brand": "Nike",
+      "price": 244.94,
+      "style": "Training",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 257,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 162.91,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 258,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 237.81,
+      "style": "Casual",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 259,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 173.99,
+      "style": "Casual",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 260,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 60.84,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 261,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 149.6,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 262,
+      "size": 8,
+      "brand": "Puma",
+      "price": 237.62,
+      "style": "Training",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 263,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 146.03,
+      "style": "Basketball",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 264,
+      "size": 10,
+      "brand": "Nike",
+      "price": 116.47,
+      "style": "Running",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 265,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 191.44,
+      "style": "Soccer",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 266,
+      "size": 9,
+      "brand": "Nike",
+      "price": 178.28,
+      "style": "Casual",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 267,
+      "size": 10,
+      "brand": "Puma",
+      "price": 91.78,
+      "style": "Basketball",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 268,
+      "size": 12,
+      "brand": "Puma",
+      "price": 224.88,
+      "style": "Walking",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 269,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 143.41,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 270,
+      "size": 10,
+      "brand": "Nike",
+      "price": 246.9,
+      "style": "Running",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 271,
+      "size": 12,
+      "brand": "Puma",
+      "price": 109.97,
+      "style": "Running",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 272,
+      "size": 9,
+      "brand": "Nike",
+      "price": 88.84,
+      "style": "Basketball",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 273,
+      "size": 12,
+      "brand": "Adidas",
+      "price": 179.45,
+      "style": "Soccer",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 274,
+      "size": 12,
+      "brand": "Adidas",
+      "price": 112.41,
+      "style": "Running",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 275,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 86.49,
+      "style": "Casual",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 276,
+      "size": 10,
+      "brand": "Puma",
+      "price": 91.6,
+      "style": "Training",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 277,
+      "size": 14,
+      "brand": "Nike",
+      "price": 75.3,
+      "style": "Casual",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 278,
+      "size": 8,
+      "brand": "Puma",
+      "price": 156.68,
+      "style": "Training",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 279,
+      "size": 13,
+      "brand": "Puma",
+      "price": 222.18,
+      "style": "Running",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 280,
+      "size": 10,
+      "brand": "Puma",
+      "price": 230.8,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 281,
+      "size": 9,
+      "brand": "Puma",
+      "price": 101.72,
+      "style": "Walking",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 282,
+      "size": 8,
+      "brand": "Nike",
+      "price": 53.14,
+      "style": "Soccer",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 283,
+      "size": 14,
+      "brand": "Reebok",
+      "price": 59.77,
+      "style": "Walking",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 284,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 248.72,
+      "style": "Casual",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 285,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 247.03,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 286,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 158.31,
+      "style": "Walking",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 287,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 146.49,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 288,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 96.41,
+      "style": "Training",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 289,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 108.66,
+      "style": "Soccer",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 290,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 129.75,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 291,
+      "size": 8,
+      "brand": "Nike",
+      "price": 211.6,
+      "style": "Running",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 292,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 88.85,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 293,
+      "size": 9,
+      "brand": "Puma",
+      "price": 228.25,
+      "style": "Walking",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 294,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 154.88,
+      "style": "Casual",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 295,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 85.93,
+      "style": "Basketball",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 296,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 190.28,
+      "style": "Walking",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 297,
+      "size": 14,
+      "brand": "Puma",
+      "price": 196.46,
+      "style": "Running",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 298,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 57.63,
+      "style": "Basketball",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 299,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 65.14,
+      "style": "Walking",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 300,
+      "size": 12,
+      "brand": "Under Armour",
+      "price": 160.46,
+      "style": "Casual",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 301,
+      "size": 10,
+      "brand": "Nike",
+      "price": 88.53,
+      "style": "Basketball",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 302,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 144.96,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 303,
+      "size": 12,
+      "brand": "Nike",
+      "price": 140.75,
+      "style": "Running",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 304,
+      "size": 13,
+      "brand": "Puma",
+      "price": 144.0,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 305,
+      "size": 11,
+      "brand": "Nike",
+      "price": 234.52,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 306,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 176.77,
+      "style": "Training",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 307,
+      "size": 9,
+      "brand": "Adidas",
+      "price": 215.21,
+      "style": "Walking",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 308,
+      "size": 10,
+      "brand": "Nike",
+      "price": 227.89,
+      "style": "Soccer",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 309,
+      "size": 8,
+      "brand": "Puma",
+      "price": 108.26,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 310,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 117.51,
+      "style": "Casual",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 311,
+      "size": 9,
+      "brand": "Puma",
+      "price": 76.77,
+      "style": "Basketball",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 312,
+      "size": 11,
+      "brand": "Puma",
+      "price": 99.44,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 313,
+      "size": 8,
+      "brand": "Puma",
+      "price": 131.25,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 314,
+      "size": 8,
+      "brand": "Puma",
+      "price": 58.54,
+      "style": "Casual",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 315,
+      "size": 14,
+      "brand": "Nike",
+      "price": 174.34,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 316,
+      "size": 9,
+      "brand": "Puma",
+      "price": 91.02,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 317,
+      "size": 9,
+      "brand": "Puma",
+      "price": 194.94,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 318,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 180.72,
+      "style": "Running",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 319,
+      "size": 9,
+      "brand": "Nike",
+      "price": 176.71,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 320,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 195.15,
+      "style": "Soccer",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 321,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 219.13,
+      "style": "Training",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 322,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 68.86,
+      "style": "Training",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 323,
+      "size": 11,
+      "brand": "Puma",
+      "price": 71.97,
+      "style": "Training",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 324,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 218.76,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 325,
+      "size": 13,
+      "brand": "Puma",
+      "price": 62.52,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 326,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 225.43,
+      "style": "Casual",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 327,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 138.0,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 328,
+      "size": 14,
+      "brand": "Reebok",
+      "price": 165.47,
+      "style": "Soccer",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 329,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 116.01,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 330,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 96.72,
+      "style": "Soccer",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 331,
+      "size": 10,
+      "brand": "Puma",
+      "price": 164.54,
+      "style": "Running",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 332,
+      "size": 10,
+      "brand": "Puma",
+      "price": 200.31,
+      "style": "Casual",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 333,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 173.07,
+      "style": "Basketball",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 334,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 186.97,
+      "style": "Soccer",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 335,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 146.01,
+      "style": "Casual",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 336,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 193.74,
+      "style": "Training",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 337,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 76.84,
+      "style": "Basketball",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 338,
+      "size": 12,
+      "brand": "Adidas",
+      "price": 214.27,
+      "style": "Basketball",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 339,
+      "size": 13,
+      "brand": "Nike",
+      "price": 163.77,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 340,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 120.44,
+      "style": "Walking",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 341,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 65.89,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 342,
+      "size": 8,
+      "brand": "Nike",
+      "price": 96.25,
+      "style": "Training",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 343,
+      "size": 13,
+      "brand": "Puma",
+      "price": 144.95,
+      "style": "Walking",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 344,
+      "size": 11,
+      "brand": "Puma",
+      "price": 100.5,
+      "style": "Running",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 345,
+      "size": 14,
+      "brand": "Nike",
+      "price": 130.11,
+      "style": "Walking",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 346,
+      "size": 11,
+      "brand": "Puma",
+      "price": 70.8,
+      "style": "Running",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 347,
+      "size": 11,
+      "brand": "Nike",
+      "price": 201.79,
+      "style": "Walking",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 348,
+      "size": 9,
+      "brand": "Under Armour",
+      "price": 126.94,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 349,
+      "size": 9,
+      "brand": "Puma",
+      "price": 51.28,
+      "style": "Training",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 350,
+      "size": 13,
+      "brand": "Puma",
+      "price": 57.54,
+      "style": "Basketball",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 351,
+      "size": 10,
+      "brand": "Puma",
+      "price": 177.42,
+      "style": "Basketball",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 352,
+      "size": 8,
+      "brand": "Nike",
+      "price": 89.5,
+      "style": "Walking",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 353,
+      "size": 9,
+      "brand": "Puma",
+      "price": 122.45,
+      "style": "Walking",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 354,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 175.26,
+      "style": "Training",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 355,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 71.86,
+      "style": "Casual",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 356,
+      "size": 11,
+      "brand": "Nike",
+      "price": 205.78,
+      "style": "Casual",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 357,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 105.14,
+      "style": "Soccer",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 358,
+      "size": 8,
+      "brand": "Puma",
+      "price": 149.08,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 359,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 63.92,
+      "style": "Casual",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 360,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 154.99,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 361,
+      "size": 11,
+      "brand": "Nike",
+      "price": 202.67,
+      "style": "Training",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 362,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 89.23,
+      "style": "Basketball",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 363,
+      "size": 9,
+      "brand": "Under Armour",
+      "price": 152.77,
+      "style": "Casual",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 364,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 91.34,
+      "style": "Soccer",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 365,
+      "size": 10,
+      "brand": "Puma",
+      "price": 195.24,
+      "style": "Training",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 366,
+      "size": 9,
+      "brand": "Adidas",
+      "price": 55.33,
+      "style": "Casual",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 367,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 67.06,
+      "style": "Walking",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 368,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 160.88,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 369,
+      "size": 13,
+      "brand": "Nike",
+      "price": 185.89,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 370,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 214.94,
+      "style": "Soccer",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 371,
+      "size": 11,
+      "brand": "Nike",
+      "price": 186.68,
+      "style": "Walking",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 372,
+      "size": 14,
+      "brand": "Nike",
+      "price": 195.55,
+      "style": "Walking",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 373,
+      "size": 9,
+      "brand": "Adidas",
+      "price": 158.26,
+      "style": "Running",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 374,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 80.48,
+      "style": "Running",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 375,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 148.55,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 376,
+      "size": 14,
+      "brand": "Puma",
+      "price": 122.16,
+      "style": "Basketball",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 377,
+      "size": 10,
+      "brand": "Puma",
+      "price": 158.48,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 378,
+      "size": 12,
+      "brand": "Adidas",
+      "price": 244.29,
+      "style": "Training",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 379,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 78.88,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 380,
+      "size": 9,
+      "brand": "Nike",
+      "price": 152.14,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 381,
+      "size": 8,
+      "brand": "Nike",
+      "price": 136.11,
+      "style": "Soccer",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 382,
+      "size": 11,
+      "brand": "Nike",
+      "price": 181.72,
+      "style": "Basketball",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 383,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 130.25,
+      "style": "Running",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 384,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 53.98,
+      "style": "Training",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 385,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 122.25,
+      "style": "Soccer",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 386,
+      "size": 14,
+      "brand": "Nike",
+      "price": 59.65,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 387,
+      "size": 12,
+      "brand": "Under Armour",
+      "price": 62.29,
+      "style": "Casual",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 388,
+      "size": 13,
+      "brand": "Nike",
+      "price": 124.05,
+      "style": "Soccer",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 389,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 67.29,
+      "style": "Walking",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 390,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 248.14,
+      "style": "Training",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 391,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 100.13,
+      "style": "Basketball",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 392,
+      "size": 11,
+      "brand": "Puma",
+      "price": 227.84,
+      "style": "Basketball",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 393,
+      "size": 8,
+      "brand": "Puma",
+      "price": 189.95,
+      "style": "Walking",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 394,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 208.64,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 395,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 97.6,
+      "style": "Casual",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 396,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 165.76,
+      "style": "Training",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 397,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 231.02,
+      "style": "Training",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 398,
+      "size": 10,
+      "brand": "Nike",
+      "price": 109.74,
+      "style": "Walking",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 399,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 73.44,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 400,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 230.08,
+      "style": "Basketball",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 401,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 224.0,
+      "style": "Casual",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 402,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 148.06,
+      "style": "Walking",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 403,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 223.6,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 404,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 103.09,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 405,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 92.09,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 406,
+      "size": 12,
+      "brand": "Puma",
+      "price": 98.24,
+      "style": "Walking",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 407,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 113.0,
+      "style": "Casual",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 408,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 77.51,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 409,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 135.57,
+      "style": "Training",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 410,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 208.71,
+      "style": "Walking",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 411,
+      "size": 12,
+      "brand": "Nike",
+      "price": 162.74,
+      "style": "Training",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 412,
+      "size": 9,
+      "brand": "Nike",
+      "price": 125.49,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 413,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 244.56,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 414,
+      "size": 14,
+      "brand": "Reebok",
+      "price": 182.34,
+      "style": "Soccer",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 415,
+      "size": 12,
+      "brand": "Under Armour",
+      "price": 204.82,
+      "style": "Casual",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 416,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 193.03,
+      "style": "Training",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 417,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 104.56,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 418,
+      "size": 14,
+      "brand": "Nike",
+      "price": 224.06,
+      "style": "Basketball",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 419,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 111.43,
+      "style": "Soccer",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 420,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 249.32,
+      "style": "Running",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 421,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 67.49,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 422,
+      "size": 14,
+      "brand": "Nike",
+      "price": 116.94,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 423,
+      "size": 10,
+      "brand": "Nike",
+      "price": 89.78,
+      "style": "Walking",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 424,
+      "size": 12,
+      "brand": "Puma",
+      "price": 134.85,
+      "style": "Training",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 425,
+      "size": 12,
+      "brand": "Puma",
+      "price": 98.81,
+      "style": "Basketball",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 426,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 168.61,
+      "style": "Running",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 427,
+      "size": 11,
+      "brand": "Puma",
+      "price": 246.64,
+      "style": "Soccer",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 428,
+      "size": 12,
+      "brand": "Nike",
+      "price": 62.97,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 429,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 191.88,
+      "style": "Basketball",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 430,
+      "size": 14,
+      "brand": "Nike",
+      "price": 224.37,
+      "style": "Training",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 431,
+      "size": 11,
+      "brand": "Nike",
+      "price": 69.81,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 432,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 131.78,
+      "style": "Basketball",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 433,
+      "size": 12,
+      "brand": "Puma",
+      "price": 62.52,
+      "style": "Walking",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 434,
+      "size": 12,
+      "brand": "Puma",
+      "price": 231.2,
+      "style": "Running",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 435,
+      "size": 14,
+      "brand": "Nike",
+      "price": 138.31,
+      "style": "Walking",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 436,
+      "size": 8,
+      "brand": "Nike",
+      "price": 66.67,
+      "style": "Training",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 437,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 162.83,
+      "style": "Basketball",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 438,
+      "size": 14,
+      "brand": "Puma",
+      "price": 200.21,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 439,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 205.03,
+      "style": "Training",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 440,
+      "size": 9,
+      "brand": "Adidas",
+      "price": 173.33,
+      "style": "Soccer",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 441,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 210.78,
+      "style": "Casual",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 442,
+      "size": 10,
+      "brand": "Puma",
+      "price": 110.88,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 443,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 212.15,
+      "style": "Running",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 444,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 83.42,
+      "style": "Training",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 445,
+      "size": 14,
+      "brand": "Puma",
+      "price": 217.06,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 446,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 126.62,
+      "style": "Basketball",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 447,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 180.18,
+      "style": "Walking",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 448,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 165.47,
+      "style": "Casual",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 449,
+      "size": 13,
+      "brand": "Nike",
+      "price": 105.48,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 450,
+      "size": 8,
+      "brand": "Puma",
+      "price": 126.11,
+      "style": "Basketball",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 451,
+      "size": 9,
+      "brand": "Nike",
+      "price": 205.86,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 452,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 227.26,
+      "style": "Training",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 453,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 85.14,
+      "style": "Casual",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 454,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 103.26,
+      "style": "Basketball",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 455,
+      "size": 10,
+      "brand": "Nike",
+      "price": 161.99,
+      "style": "Walking",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 456,
+      "size": 10,
+      "brand": "Puma",
+      "price": 54.72,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 457,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 174.31,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 458,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 227.92,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 459,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 119.95,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 460,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 202.41,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 461,
+      "size": 12,
+      "brand": "Puma",
+      "price": 154.18,
+      "style": "Soccer",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 462,
+      "size": 13,
+      "brand": "Nike",
+      "price": 191.56,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 463,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 53.94,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 464,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 123.37,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 465,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 244.5,
+      "style": "Training",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 466,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 235.43,
+      "style": "Training",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 467,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 160.7,
+      "style": "Casual",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 468,
+      "size": 14,
+      "brand": "Nike",
+      "price": 85.99,
+      "style": "Basketball",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 469,
+      "size": 8,
+      "brand": "Puma",
+      "price": 192.51,
+      "style": "Basketball",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 470,
+      "size": 11,
+      "brand": "Puma",
+      "price": 113.86,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 471,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 58.75,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 472,
+      "size": 9,
+      "brand": "Puma",
+      "price": 134.29,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 473,
+      "size": 14,
+      "brand": "Reebok",
+      "price": 106.75,
+      "style": "Soccer",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 474,
+      "size": 13,
+      "brand": "Puma",
+      "price": 204.74,
+      "style": "Soccer",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 475,
+      "size": 11,
+      "brand": "Nike",
+      "price": 227.89,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 476,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 97.4,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 477,
+      "size": 14,
+      "brand": "Nike",
+      "price": 138.7,
+      "style": "Casual",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 478,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 175.32,
+      "style": "Running",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 479,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 193.53,
+      "style": "Running",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 480,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 218.19,
+      "style": "Soccer",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 481,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 100.84,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 482,
+      "size": 9,
+      "brand": "Puma",
+      "price": 214.99,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 483,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 57.71,
+      "style": "Basketball",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 484,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 78.56,
+      "style": "Basketball",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 485,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 123.91,
+      "style": "Casual",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 486,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 145.82,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 487,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 101.89,
+      "style": "Casual",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 488,
+      "size": 11,
+      "brand": "Nike",
+      "price": 188.03,
+      "style": "Soccer",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 489,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 177.22,
+      "style": "Soccer",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 490,
+      "size": 8,
+      "brand": "Nike",
+      "price": 61.25,
+      "style": "Soccer",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 491,
+      "size": 10,
+      "brand": "Puma",
+      "price": 152.44,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 492,
+      "size": 14,
+      "brand": "Reebok",
+      "price": 202.62,
+      "style": "Basketball",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 493,
+      "size": 14,
+      "brand": "Puma",
+      "price": 127.63,
+      "style": "Training",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 494,
+      "size": 11,
+      "brand": "Nike",
+      "price": 57.44,
+      "style": "Basketball",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 495,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 156.7,
+      "style": "Soccer",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 496,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 244.13,
+      "style": "Casual",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 497,
+      "size": 9,
+      "brand": "Under Armour",
+      "price": 101.38,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 498,
+      "size": 9,
+      "brand": "Under Armour",
+      "price": 244.32,
+      "style": "Casual",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 499,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 157.66,
+      "style": "Training",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 500,
+      "size": 11,
+      "brand": "Puma",
+      "price": 173.29,
+      "style": "Soccer",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 501,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 243.99,
+      "style": "Casual",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 502,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 205.55,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 503,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 217.49,
+      "style": "Training",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 504,
+      "size": 9,
+      "brand": "Nike",
+      "price": 164.16,
+      "style": "Casual",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 505,
+      "size": 10,
+      "brand": "Puma",
+      "price": 131.89,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 506,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 248.43,
+      "style": "Walking",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 507,
+      "size": 10,
+      "brand": "Puma",
+      "price": 136.54,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 508,
+      "size": 10,
+      "brand": "Nike",
+      "price": 229.18,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 509,
+      "size": 12,
+      "brand": "Nike",
+      "price": 130.56,
+      "style": "Walking",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 510,
+      "size": 8,
+      "brand": "Nike",
+      "price": 170.32,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 511,
+      "size": 8,
+      "brand": "Nike",
+      "price": 110.19,
+      "style": "Soccer",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 512,
+      "size": 9,
+      "brand": "Nike",
+      "price": 230.69,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 513,
+      "size": 14,
+      "brand": "Reebok",
+      "price": 161.1,
+      "style": "Running",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 514,
+      "size": 10,
+      "brand": "Puma",
+      "price": 196.93,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 515,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 81.91,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 516,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 150.61,
+      "style": "Training",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 517,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 130.16,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 518,
+      "size": 9,
+      "brand": "Under Armour",
+      "price": 73.51,
+      "style": "Walking",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 519,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 90.98,
+      "style": "Training",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 520,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 84.84,
+      "style": "Walking",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 521,
+      "size": 8,
+      "brand": "Nike",
+      "price": 91.53,
+      "style": "Training",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 522,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 154.09,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 523,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 110.64,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 524,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 196.71,
+      "style": "Soccer",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 525,
+      "size": 12,
+      "brand": "Nike",
+      "price": 179.85,
+      "style": "Running",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 526,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 145.09,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 527,
+      "size": 12,
+      "brand": "Nike",
+      "price": 77.7,
+      "style": "Running",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 528,
+      "size": 12,
+      "brand": "Nike",
+      "price": 93.1,
+      "style": "Casual",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 529,
+      "size": 14,
+      "brand": "Nike",
+      "price": 59.29,
+      "style": "Training",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 530,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 202.54,
+      "style": "Training",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 531,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 225.93,
+      "style": "Basketball",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 532,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 188.57,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 533,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 107.27,
+      "style": "Casual",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 534,
+      "size": 14,
+      "brand": "Puma",
+      "price": 143.78,
+      "style": "Soccer",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 535,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 132.26,
+      "style": "Casual",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 536,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 134.6,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 537,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 65.73,
+      "style": "Basketball",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 538,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 113.31,
+      "style": "Running",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 539,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 127.36,
+      "style": "Soccer",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 540,
+      "size": 9,
+      "brand": "Adidas",
+      "price": 110.7,
+      "style": "Soccer",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 541,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 131.28,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 542,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 210.91,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 543,
+      "size": 12,
+      "brand": "Under Armour",
+      "price": 132.41,
+      "style": "Basketball",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 544,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 223.12,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 545,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 235.02,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 546,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 173.65,
+      "style": "Training",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 547,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 228.11,
+      "style": "Soccer",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 548,
+      "size": 11,
+      "brand": "Nike",
+      "price": 138.61,
+      "style": "Training",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 549,
+      "size": 11,
+      "brand": "Nike",
+      "price": 228.93,
+      "style": "Casual",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 550,
+      "size": 13,
+      "brand": "Nike",
+      "price": 182.34,
+      "style": "Casual",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 551,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 162.7,
+      "style": "Walking",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 552,
+      "size": 13,
+      "brand": "Nike",
+      "price": 189.93,
+      "style": "Walking",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 553,
+      "size": 14,
+      "brand": "Reebok",
+      "price": 163.93,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 554,
+      "size": 12,
+      "brand": "Under Armour",
+      "price": 143.23,
+      "style": "Training",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 555,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 142.82,
+      "style": "Basketball",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 556,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 159.68,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 557,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 56.47,
+      "style": "Soccer",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 558,
+      "size": 14,
+      "brand": "Puma",
+      "price": 151.04,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 559,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 146.93,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 560,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 206.08,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 561,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 225.56,
+      "style": "Basketball",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 562,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 112.3,
+      "style": "Running",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 563,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 176.04,
+      "style": "Basketball",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 564,
+      "size": 10,
+      "brand": "Nike",
+      "price": 198.4,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 565,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 59.24,
+      "style": "Basketball",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 566,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 123.06,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 567,
+      "size": 13,
+      "brand": "Puma",
+      "price": 231.93,
+      "style": "Casual",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 568,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 170.23,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 569,
+      "size": 11,
+      "brand": "Puma",
+      "price": 231.65,
+      "style": "Soccer",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 570,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 177.28,
+      "style": "Soccer",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 571,
+      "size": 8,
+      "brand": "Puma",
+      "price": 77.16,
+      "style": "Training",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 572,
+      "size": 13,
+      "brand": "Nike",
+      "price": 229.67,
+      "style": "Running",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 573,
+      "size": 9,
+      "brand": "Adidas",
+      "price": 143.82,
+      "style": "Training",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 574,
+      "size": 8,
+      "brand": "Puma",
+      "price": 234.81,
+      "style": "Casual",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 575,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 144.85,
+      "style": "Training",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 576,
+      "size": 9,
+      "brand": "Under Armour",
+      "price": 179.25,
+      "style": "Training",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 577,
+      "size": 11,
+      "brand": "Puma",
+      "price": 141.9,
+      "style": "Running",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 578,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 157.84,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 579,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 76.69,
+      "style": "Basketball",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 580,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 71.52,
+      "style": "Basketball",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 581,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 173.85,
+      "style": "Training",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 582,
+      "size": 8,
+      "brand": "Nike",
+      "price": 190.08,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 583,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 114.23,
+      "style": "Soccer",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 584,
+      "size": 14,
+      "brand": "Nike",
+      "price": 154.64,
+      "style": "Casual",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 585,
+      "size": 8,
+      "brand": "Puma",
+      "price": 229.37,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 586,
+      "size": 14,
+      "brand": "Puma",
+      "price": 106.64,
+      "style": "Walking",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 587,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 185.11,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 588,
+      "size": 12,
+      "brand": "Under Armour",
+      "price": 181.62,
+      "style": "Casual",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 589,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 85.4,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 590,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 115.96,
+      "style": "Casual",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 591,
+      "size": 12,
+      "brand": "Adidas",
+      "price": 107.86,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 592,
+      "size": 14,
+      "brand": "Nike",
+      "price": 192.48,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 593,
+      "size": 9,
+      "brand": "Puma",
+      "price": 68.58,
+      "style": "Running",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 594,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 54.86,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 595,
+      "size": 9,
+      "brand": "Puma",
+      "price": 67.48,
+      "style": "Walking",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 596,
+      "size": 13,
+      "brand": "Puma",
+      "price": 198.58,
+      "style": "Basketball",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 597,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 186.97,
+      "style": "Walking",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 598,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 177.49,
+      "style": "Basketball",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 599,
+      "size": 10,
+      "brand": "Puma",
+      "price": 158.01,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 600,
+      "size": 12,
+      "brand": "Nike",
+      "price": 227.82,
+      "style": "Casual",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 601,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 191.64,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 602,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 217.16,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 603,
+      "size": 9,
+      "brand": "Nike",
+      "price": 122.62,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 604,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 186.64,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 605,
+      "size": 10,
+      "brand": "Nike",
+      "price": 180.94,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 606,
+      "size": 8,
+      "brand": "Nike",
+      "price": 199.64,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 607,
+      "size": 10,
+      "brand": "Puma",
+      "price": 230.6,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 608,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 227.8,
+      "style": "Running",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 609,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 235.01,
+      "style": "Training",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 610,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 128.52,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 611,
+      "size": 14,
+      "brand": "Puma",
+      "price": 93.7,
+      "style": "Casual",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 612,
+      "size": 9,
+      "brand": "Puma",
+      "price": 84.99,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 613,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 72.27,
+      "style": "Basketball",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 614,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 69.87,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 615,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 184.51,
+      "style": "Running",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 616,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 51.24,
+      "style": "Running",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 617,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 213.98,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 618,
+      "size": 11,
+      "brand": "Puma",
+      "price": 193.7,
+      "style": "Basketball",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 619,
+      "size": 8,
+      "brand": "Puma",
+      "price": 85.2,
+      "style": "Running",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 620,
+      "size": 14,
+      "brand": "Puma",
+      "price": 236.24,
+      "style": "Training",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 621,
+      "size": 8,
+      "brand": "Nike",
+      "price": 73.51,
+      "style": "Basketball",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 622,
+      "size": 10,
+      "brand": "Puma",
+      "price": 198.96,
+      "style": "Casual",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 623,
+      "size": 14,
+      "brand": "Reebok",
+      "price": 55.79,
+      "style": "Training",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 624,
+      "size": 14,
+      "brand": "Puma",
+      "price": 239.54,
+      "style": "Basketball",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 625,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 203.14,
+      "style": "Casual",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 626,
+      "size": 14,
+      "brand": "Puma",
+      "price": 157.95,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 627,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 109.33,
+      "style": "Running",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 628,
+      "size": 9,
+      "brand": "Adidas",
+      "price": 134.51,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 629,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 203.39,
+      "style": "Walking",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 630,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 227.24,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 631,
+      "size": 8,
+      "brand": "Nike",
+      "price": 185.48,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 632,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 222.98,
+      "style": "Soccer",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 633,
+      "size": 10,
+      "brand": "Puma",
+      "price": 204.32,
+      "style": "Walking",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 634,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 126.66,
+      "style": "Running",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 635,
+      "size": 9,
+      "brand": "Adidas",
+      "price": 55.22,
+      "style": "Walking",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 636,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 224.39,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 637,
+      "size": 10,
+      "brand": "Puma",
+      "price": 215.57,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 638,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 76.8,
+      "style": "Casual",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 639,
+      "size": 12,
+      "brand": "Puma",
+      "price": 95.09,
+      "style": "Training",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 640,
+      "size": 12,
+      "brand": "Nike",
+      "price": 119.11,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 641,
+      "size": 9,
+      "brand": "Puma",
+      "price": 57.91,
+      "style": "Basketball",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 642,
+      "size": 13,
+      "brand": "Nike",
+      "price": 85.87,
+      "style": "Walking",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 643,
+      "size": 9,
+      "brand": "Under Armour",
+      "price": 190.76,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 644,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 114.94,
+      "style": "Casual",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 645,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 153.66,
+      "style": "Casual",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 646,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 143.11,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 647,
+      "size": 14,
+      "brand": "Puma",
+      "price": 109.08,
+      "style": "Walking",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 648,
+      "size": 9,
+      "brand": "Nike",
+      "price": 56.36,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 649,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 169.71,
+      "style": "Walking",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 650,
+      "size": 9,
+      "brand": "Puma",
+      "price": 66.44,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 651,
+      "size": 10,
+      "brand": "Nike",
+      "price": 76.64,
+      "style": "Casual",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 652,
+      "size": 8,
+      "brand": "Puma",
+      "price": 201.83,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 653,
+      "size": 8,
+      "brand": "Puma",
+      "price": 76.66,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 654,
+      "size": 9,
+      "brand": "Nike",
+      "price": 246.99,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 655,
+      "size": 8,
+      "brand": "Nike",
+      "price": 118.15,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 656,
+      "size": 9,
+      "brand": "Puma",
+      "price": 216.63,
+      "style": "Soccer",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 657,
+      "size": 13,
+      "brand": "Puma",
+      "price": 113.35,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 658,
+      "size": 13,
+      "brand": "Puma",
+      "price": 123.8,
+      "style": "Running",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 659,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 121.51,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 660,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 198.92,
+      "style": "Basketball",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 661,
+      "size": 9,
+      "brand": "Adidas",
+      "price": 120.0,
+      "style": "Soccer",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 662,
+      "size": 12,
+      "brand": "Puma",
+      "price": 228.26,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 663,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 189.5,
+      "style": "Training",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 664,
+      "size": 8,
+      "brand": "Puma",
+      "price": 203.65,
+      "style": "Walking",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 665,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 239.7,
+      "style": "Basketball",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 666,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 235.49,
+      "style": "Training",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 667,
+      "size": 9,
+      "brand": "Nike",
+      "price": 218.09,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 668,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 96.05,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 669,
+      "size": 8,
+      "brand": "Nike",
+      "price": 238.57,
+      "style": "Walking",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 670,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 210.77,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 671,
+      "size": 12,
+      "brand": "Adidas",
+      "price": 137.05,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 672,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 193.0,
+      "style": "Training",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 673,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 196.07,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 674,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 72.18,
+      "style": "Basketball",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 675,
+      "size": 11,
+      "brand": "Nike",
+      "price": 162.91,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 676,
+      "size": 13,
+      "brand": "Puma",
+      "price": 164.78,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 677,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 124.21,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 678,
+      "size": 11,
+      "brand": "Nike",
+      "price": 221.97,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 679,
+      "size": 12,
+      "brand": "Nike",
+      "price": 88.68,
+      "style": "Basketball",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 680,
+      "size": 10,
+      "brand": "Nike",
+      "price": 131.72,
+      "style": "Basketball",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 681,
+      "size": 12,
+      "brand": "Under Armour",
+      "price": 178.09,
+      "style": "Training",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 682,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 121.29,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 683,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 102.85,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 684,
+      "size": 12,
+      "brand": "Puma",
+      "price": 220.48,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 685,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 147.07,
+      "style": "Basketball",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 686,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 141.5,
+      "style": "Running",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 687,
+      "size": 9,
+      "brand": "Puma",
+      "price": 160.2,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 688,
+      "size": 9,
+      "brand": "Adidas",
+      "price": 175.24,
+      "style": "Casual",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 689,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 86.04,
+      "style": "Walking",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 690,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 71.19,
+      "style": "Running",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 691,
+      "size": 13,
+      "brand": "Puma",
+      "price": 89.33,
+      "style": "Casual",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 692,
+      "size": 8,
+      "brand": "Nike",
+      "price": 236.52,
+      "style": "Walking",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 693,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 165.92,
+      "style": "Walking",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 694,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 249.56,
+      "style": "Training",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 695,
+      "size": 13,
+      "brand": "Puma",
+      "price": 74.87,
+      "style": "Training",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 696,
+      "size": 14,
+      "brand": "Puma",
+      "price": 137.26,
+      "style": "Walking",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 697,
+      "size": 12,
+      "brand": "Nike",
+      "price": 102.81,
+      "style": "Basketball",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 698,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 211.55,
+      "style": "Casual",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 699,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 144.27,
+      "style": "Basketball",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 700,
+      "size": 12,
+      "brand": "Adidas",
+      "price": 123.09,
+      "style": "Training",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 701,
+      "size": 11,
+      "brand": "Nike",
+      "price": 79.66,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 702,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 213.07,
+      "style": "Soccer",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 703,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 189.26,
+      "style": "Walking",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 704,
+      "size": 11,
+      "brand": "Puma",
+      "price": 76.96,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 705,
+      "size": 13,
+      "brand": "Puma",
+      "price": 246.66,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 706,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 229.29,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 707,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 242.91,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 708,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 56.54,
+      "style": "Walking",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 709,
+      "size": 14,
+      "brand": "Nike",
+      "price": 54.6,
+      "style": "Soccer",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 710,
+      "size": 12,
+      "brand": "Nike",
+      "price": 61.8,
+      "style": "Running",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 711,
+      "size": 8,
+      "brand": "Puma",
+      "price": 165.17,
+      "style": "Casual",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 712,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 184.93,
+      "style": "Walking",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 713,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 191.14,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 714,
+      "size": 11,
+      "brand": "Puma",
+      "price": 63.32,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 715,
+      "size": 13,
+      "brand": "Puma",
+      "price": 143.61,
+      "style": "Training",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 716,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 182.23,
+      "style": "Running",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 717,
+      "size": 9,
+      "brand": "Nike",
+      "price": 183.59,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 718,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 205.96,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 719,
+      "size": 12,
+      "brand": "Puma",
+      "price": 242.32,
+      "style": "Casual",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 720,
+      "size": 8,
+      "brand": "Nike",
+      "price": 72.96,
+      "style": "Basketball",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 721,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 158.87,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 722,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 187.1,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 723,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 118.1,
+      "style": "Casual",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 724,
+      "size": 13,
+      "brand": "Puma",
+      "price": 205.9,
+      "style": "Basketball",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 725,
+      "size": 12,
+      "brand": "Puma",
+      "price": 204.13,
+      "style": "Running",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 726,
+      "size": 13,
+      "brand": "Puma",
+      "price": 134.77,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 727,
+      "size": 14,
+      "brand": "Under Armour",
+      "price": 205.73,
+      "style": "Training",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 728,
+      "size": 12,
+      "brand": "Puma",
+      "price": 135.17,
+      "style": "Basketball",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 729,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 233.53,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 730,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 199.98,
+      "style": "Walking",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 731,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 152.43,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 732,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 55.64,
+      "style": "Casual",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 733,
+      "size": 10,
+      "brand": "Puma",
+      "price": 209.85,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 734,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 164.95,
+      "style": "Walking",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 735,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 159.61,
+      "style": "Training",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 736,
+      "size": 14,
+      "brand": "Nike",
+      "price": 210.45,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 737,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 245.17,
+      "style": "Training",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 738,
+      "size": 12,
+      "brand": "Puma",
+      "price": 53.39,
+      "style": "Training",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 739,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 196.34,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 740,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 61.17,
+      "style": "Running",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 741,
+      "size": 12,
+      "brand": "Nike",
+      "price": 195.96,
+      "style": "Training",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 742,
+      "size": 11,
+      "brand": "Nike",
+      "price": 206.68,
+      "style": "Walking",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 743,
+      "size": 14,
+      "brand": "Reebok",
+      "price": 97.58,
+      "style": "Training",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 744,
+      "size": 10,
+      "brand": "Nike",
+      "price": 87.86,
+      "style": "Running",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 745,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 125.62,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 746,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 120.76,
+      "style": "Training",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 747,
+      "size": 12,
+      "brand": "Nike",
+      "price": 202.62,
+      "style": "Running",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 748,
+      "size": 9,
+      "brand": "Nike",
+      "price": 80.28,
+      "style": "Casual",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 749,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 155.41,
+      "style": "Casual",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 750,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 232.2,
+      "style": "Running",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 751,
+      "size": 8,
+      "brand": "Puma",
+      "price": 231.72,
+      "style": "Running",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 752,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 84.18,
+      "style": "Casual",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 753,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 91.52,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 754,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 233.17,
+      "style": "Soccer",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 755,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 134.98,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 756,
+      "size": 12,
+      "brand": "Puma",
+      "price": 113.27,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 757,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 193.3,
+      "style": "Casual",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 758,
+      "size": 11,
+      "brand": "Puma",
+      "price": 121.64,
+      "style": "Casual",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 759,
+      "size": 9,
+      "brand": "Under Armour",
+      "price": 133.61,
+      "style": "Soccer",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 760,
+      "size": 12,
+      "brand": "Under Armour",
+      "price": 129.94,
+      "style": "Basketball",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 761,
+      "size": 10,
+      "brand": "Nike",
+      "price": 100.46,
+      "style": "Soccer",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 762,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 145.31,
+      "style": "Soccer",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 763,
+      "size": 13,
+      "brand": "Nike",
+      "price": 56.44,
+      "style": "Soccer",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 764,
+      "size": 10,
+      "brand": "Nike",
+      "price": 142.53,
+      "style": "Soccer",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 765,
+      "size": 8,
+      "brand": "Nike",
+      "price": 87.3,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 766,
+      "size": 11,
+      "brand": "Puma",
+      "price": 161.61,
+      "style": "Walking",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 767,
+      "size": 8,
+      "brand": "Nike",
+      "price": 138.72,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 768,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 112.58,
+      "style": "Casual",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 769,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 124.73,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 770,
+      "size": 9,
+      "brand": "Adidas",
+      "price": 52.33,
+      "style": "Basketball",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 771,
+      "size": 9,
+      "brand": "Nike",
+      "price": 154.33,
+      "style": "Training",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 772,
+      "size": 8,
+      "brand": "Puma",
+      "price": 199.91,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 773,
+      "size": 9,
+      "brand": "Nike",
+      "price": 166.27,
+      "style": "Walking",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 774,
+      "size": 11,
+      "brand": "Puma",
+      "price": 192.3,
+      "style": "Walking",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 775,
+      "size": 13,
+      "brand": "Puma",
+      "price": 102.55,
+      "style": "Soccer",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 776,
+      "size": 10,
+      "brand": "Nike",
+      "price": 192.08,
+      "style": "Walking",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 777,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 207.1,
+      "style": "Soccer",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 778,
+      "size": 14,
+      "brand": "Puma",
+      "price": 79.53,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 779,
+      "size": 12,
+      "brand": "Adidas",
+      "price": 248.55,
+      "style": "Soccer",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 780,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 120.51,
+      "style": "Soccer",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 781,
+      "size": 13,
+      "brand": "Nike",
+      "price": 186.24,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 782,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 246.2,
+      "style": "Soccer",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 783,
+      "size": 14,
+      "brand": "Puma",
+      "price": 242.75,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 784,
+      "size": 13,
+      "brand": "Puma",
+      "price": 55.24,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 785,
+      "size": 12,
+      "brand": "Adidas",
+      "price": 55.66,
+      "style": "Soccer",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 786,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 101.98,
+      "style": "Basketball",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 787,
+      "size": 12,
+      "brand": "Puma",
+      "price": 155.25,
+      "style": "Walking",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 788,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 169.65,
+      "style": "Running",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 789,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 193.11,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 790,
+      "size": 11,
+      "brand": "Puma",
+      "price": 230.03,
+      "style": "Casual",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 791,
+      "size": 9,
+      "brand": "Nike",
+      "price": 126.18,
+      "style": "Running",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 792,
+      "size": 14,
+      "brand": "Puma",
+      "price": 210.41,
+      "style": "Walking",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 793,
+      "size": 8,
+      "brand": "Puma",
+      "price": 69.02,
+      "style": "Soccer",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 794,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 234.84,
+      "style": "Casual",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 795,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 200.49,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 796,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 117.0,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 797,
+      "size": 12,
+      "brand": "Nike",
+      "price": 233.04,
+      "style": "Casual",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 798,
+      "size": 13,
+      "brand": "Puma",
+      "price": 134.66,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 799,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 198.38,
+      "style": "Training",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 800,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 161.48,
+      "style": "Casual",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 801,
+      "size": 14,
+      "brand": "Nike",
+      "price": 125.95,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 802,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 139.77,
+      "style": "Soccer",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 803,
+      "size": 13,
+      "brand": "Nike",
+      "price": 108.72,
+      "style": "Training",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 804,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 224.5,
+      "style": "Training",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 805,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 113.07,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 806,
+      "size": 12,
+      "brand": "Puma",
+      "price": 238.85,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 807,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 165.42,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 808,
+      "size": 12,
+      "brand": "Nike",
+      "price": 79.05,
+      "style": "Running",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 809,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 182.24,
+      "style": "Running",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 810,
+      "size": 12,
+      "brand": "Adidas",
+      "price": 234.0,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 811,
+      "size": 8,
+      "brand": "Nike",
+      "price": 100.48,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 812,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 163.33,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 813,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 87.06,
+      "style": "Basketball",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 814,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 148.93,
+      "style": "Basketball",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 815,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 219.28,
+      "style": "Walking",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 816,
+      "size": 14,
+      "brand": "Nike",
+      "price": 168.28,
+      "style": "Walking",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 817,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 248.82,
+      "style": "Training",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 818,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 243.96,
+      "style": "Training",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 819,
+      "size": 12,
+      "brand": "Under Armour",
+      "price": 115.17,
+      "style": "Casual",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 820,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 82.9,
+      "style": "Running",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 821,
+      "size": 9,
+      "brand": "Puma",
+      "price": 144.4,
+      "style": "Training",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 822,
+      "size": 8,
+      "brand": "Puma",
+      "price": 139.68,
+      "style": "Casual",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 823,
+      "size": 8,
+      "brand": "Puma",
+      "price": 229.88,
+      "style": "Casual",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 824,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 154.88,
+      "style": "Casual",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 825,
+      "size": 10,
+      "brand": "Puma",
+      "price": 217.84,
+      "style": "Training",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 826,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 133.49,
+      "style": "Casual",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 827,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 181.76,
+      "style": "Casual",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 828,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 220.96,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 829,
+      "size": 12,
+      "brand": "Under Armour",
+      "price": 74.96,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 830,
+      "size": 9,
+      "brand": "Adidas",
+      "price": 193.01,
+      "style": "Casual",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 831,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 60.94,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 832,
+      "size": 10,
+      "brand": "Puma",
+      "price": 102.13,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 833,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 221.36,
+      "style": "Casual",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 834,
+      "size": 14,
+      "brand": "Nike",
+      "price": 187.48,
+      "style": "Running",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 835,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 203.6,
+      "style": "Basketball",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 836,
+      "size": 13,
+      "brand": "Puma",
+      "price": 150.7,
+      "style": "Running",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 837,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 125.07,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 838,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 110.64,
+      "style": "Soccer",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 839,
+      "size": 8,
+      "brand": "Puma",
+      "price": 93.52,
+      "style": "Soccer",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 840,
+      "size": 11,
+      "brand": "Puma",
+      "price": 119.18,
+      "style": "Training",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 841,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 57.34,
+      "style": "Walking",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 842,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 239.54,
+      "style": "Soccer",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 843,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 102.25,
+      "style": "Basketball",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 844,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 246.62,
+      "style": "Training",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 845,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 171.65,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 846,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 91.78,
+      "style": "Soccer",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 847,
+      "size": 12,
+      "brand": "Nike",
+      "price": 188.04,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 848,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 230.0,
+      "style": "Basketball",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 849,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 200.18,
+      "style": "Basketball",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 850,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 232.78,
+      "style": "Training",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 851,
+      "size": 11,
+      "brand": "Nike",
+      "price": 143.1,
+      "style": "Basketball",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 852,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 67.85,
+      "style": "Training",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 853,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 214.68,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 854,
+      "size": 9,
+      "brand": "Puma",
+      "price": 238.82,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 855,
+      "size": 14,
+      "brand": "Nike",
+      "price": 118.36,
+      "style": "Running",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 856,
+      "size": 9,
+      "brand": "Under Armour",
+      "price": 138.57,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 857,
+      "size": 12,
+      "brand": "Under Armour",
+      "price": 84.02,
+      "style": "Soccer",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 858,
+      "size": 14,
+      "brand": "Reebok",
+      "price": 240.84,
+      "style": "Basketball",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 859,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 156.15,
+      "style": "Basketball",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 860,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 83.64,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 861,
+      "size": 10,
+      "brand": "Puma",
+      "price": 115.71,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 862,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 184.59,
+      "style": "Running",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 863,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 134.92,
+      "style": "Soccer",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 864,
+      "size": 8,
+      "brand": "Nike",
+      "price": 77.39,
+      "style": "Soccer",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 865,
+      "size": 12,
+      "brand": "Puma",
+      "price": 178.04,
+      "style": "Basketball",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 866,
+      "size": 9,
+      "brand": "Under Armour",
+      "price": 239.68,
+      "style": "Walking",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 867,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 185.71,
+      "style": "Soccer",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 868,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 96.93,
+      "style": "Running",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 869,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 86.84,
+      "style": "Walking",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 870,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 84.18,
+      "style": "Basketball",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 871,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 63.62,
+      "style": "Soccer",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 872,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 147.07,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 873,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 98.85,
+      "style": "Running",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 874,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 178.04,
+      "style": "Soccer",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 875,
+      "size": 10,
+      "brand": "Puma",
+      "price": 81.88,
+      "style": "Soccer",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 876,
+      "size": 11,
+      "brand": "Puma",
+      "price": 84.97,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 877,
+      "size": 14,
+      "brand": "Puma",
+      "price": 55.71,
+      "style": "Soccer",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 878,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 200.21,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 879,
+      "size": 12,
+      "brand": "Nike",
+      "price": 235.03,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 880,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 249.17,
+      "style": "Basketball",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 881,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 161.21,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 882,
+      "size": 9,
+      "brand": "Under Armour",
+      "price": 88.67,
+      "style": "Basketball",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 883,
+      "size": 9,
+      "brand": "Nike",
+      "price": 204.74,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 884,
+      "size": 14,
+      "brand": "Nike",
+      "price": 189.71,
+      "style": "Basketball",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 885,
+      "size": 14,
+      "brand": "Nike",
+      "price": 130.67,
+      "style": "Walking",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 886,
+      "size": 9,
+      "brand": "Nike",
+      "price": 241.32,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 887,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 101.76,
+      "style": "Soccer",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 888,
+      "size": 14,
+      "brand": "Puma",
+      "price": 169.94,
+      "style": "Training",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 889,
+      "size": 13,
+      "brand": "Nike",
+      "price": 176.24,
+      "style": "Soccer",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 890,
+      "size": 13,
+      "brand": "Nike",
+      "price": 55.04,
+      "style": "Basketball",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 891,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 227.11,
+      "style": "Casual",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 892,
+      "size": 9,
+      "brand": "Puma",
+      "price": 89.95,
+      "style": "Training",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 893,
+      "size": 12,
+      "brand": "Adidas",
+      "price": 120.5,
+      "style": "Basketball",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 894,
+      "size": 12,
+      "brand": "Nike",
+      "price": 152.79,
+      "style": "Walking",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 895,
+      "size": 10,
+      "brand": "Adidas",
+      "price": 61.9,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 896,
+      "size": 12,
+      "brand": "Nike",
+      "price": 163.15,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 897,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 227.65,
+      "style": "Soccer",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 898,
+      "size": 9,
+      "brand": "Adidas",
+      "price": 155.71,
+      "style": "Casual",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 899,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 104.96,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 900,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 161.25,
+      "style": "Soccer",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 901,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 198.88,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 902,
+      "size": 13,
+      "brand": "Puma",
+      "price": 62.75,
+      "style": "Casual",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 903,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 191.15,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 904,
+      "size": 9,
+      "brand": "Nike",
+      "price": 90.51,
+      "style": "Basketball",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 905,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 194.64,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 906,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 249.68,
+      "style": "Running",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 907,
+      "size": 14,
+      "brand": "Nike",
+      "price": 203.66,
+      "style": "Basketball",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 908,
+      "size": 11,
+      "brand": "Adidas",
+      "price": 185.64,
+      "style": "Basketball",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 909,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 216.06,
+      "style": "Training",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 910,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 174.22,
+      "style": "Running",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 911,
+      "size": 10,
+      "brand": "Nike",
+      "price": 211.32,
+      "style": "Basketball",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 912,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 206.16,
+      "style": "Walking",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 913,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 175.39,
+      "style": "Walking",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 914,
+      "size": 14,
+      "brand": "Reebok",
+      "price": 192.31,
+      "style": "Casual",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 915,
+      "size": 12,
+      "brand": "Nike",
+      "price": 131.27,
+      "style": "Training",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 916,
+      "size": 13,
+      "brand": "Puma",
+      "price": 231.91,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 917,
+      "size": 10,
+      "brand": "Puma",
+      "price": 220.16,
+      "style": "Walking",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 918,
+      "size": 11,
+      "brand": "Nike",
+      "price": 153.17,
+      "style": "Running",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 919,
+      "size": 14,
+      "brand": "Reebok",
+      "price": 196.1,
+      "style": "Running",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 920,
+      "size": 9,
+      "brand": "Puma",
+      "price": 159.92,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 921,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 150.98,
+      "style": "Basketball",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 922,
+      "size": 12,
+      "brand": "Nike",
+      "price": 207.6,
+      "style": "Casual",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 923,
+      "size": 9,
+      "brand": "Under Armour",
+      "price": 119.32,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 924,
+      "size": 10,
+      "brand": "Reebok",
+      "price": 204.31,
+      "style": "Training",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 925,
+      "size": 11,
+      "brand": "Puma",
+      "price": 58.69,
+      "style": "Walking",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 926,
+      "size": 14,
+      "brand": "Puma",
+      "price": 201.41,
+      "style": "Basketball",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 927,
+      "size": 13,
+      "brand": "Puma",
+      "price": 138.22,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 928,
+      "size": 9,
+      "brand": "Adidas",
+      "price": 84.98,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 929,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 104.3,
+      "style": "Soccer",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 930,
+      "size": 13,
+      "brand": "Puma",
+      "price": 83.0,
+      "style": "Soccer",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 931,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 178.83,
+      "style": "Walking",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 932,
+      "size": 13,
+      "brand": "Puma",
+      "price": 165.88,
+      "style": "Casual",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 933,
+      "size": 8,
+      "brand": "Puma",
+      "price": 168.33,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 934,
+      "size": 14,
+      "brand": "Puma",
+      "price": 113.45,
+      "style": "Walking",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 935,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 232.69,
+      "style": "Training",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 936,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 245.69,
+      "style": "Training",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 937,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 61.49,
+      "style": "Running",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 938,
+      "size": 9,
+      "brand": "Puma",
+      "price": 74.8,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 939,
+      "size": 9,
+      "brand": "Nike",
+      "price": 217.78,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 940,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 181.0,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 941,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 167.88,
+      "style": "Training",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 942,
+      "size": 8,
+      "brand": "Nike",
+      "price": 83.67,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 943,
+      "size": 12,
+      "brand": "Puma",
+      "price": 70.14,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 944,
+      "size": 12,
+      "brand": "Adidas",
+      "price": 244.06,
+      "style": "Casual",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 945,
+      "size": 10,
+      "brand": "Nike",
+      "price": 194.59,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 946,
+      "size": 10,
+      "brand": "Nike",
+      "price": 86.73,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 947,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 78.89,
+      "style": "Casual",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 948,
+      "size": 11,
+      "brand": "Under Armour",
+      "price": 178.68,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 949,
+      "size": 9,
+      "brand": "Nike",
+      "price": 167.7,
+      "style": "Casual",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 950,
+      "size": 8,
+      "brand": "Nike",
+      "price": 119.8,
+      "style": "Casual",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 951,
+      "size": 12,
+      "brand": "Puma",
+      "price": 138.48,
+      "style": "Basketball",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 952,
+      "size": 12,
+      "brand": "Puma",
+      "price": 96.22,
+      "style": "Basketball",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 953,
+      "size": 9,
+      "brand": "Nike",
+      "price": 219.09,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 954,
+      "size": 9,
+      "brand": "Under Armour",
+      "price": 237.81,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 955,
+      "size": 9,
+      "brand": "Under Armour",
+      "price": 249.81,
+      "style": "Running",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 956,
+      "size": 12,
+      "brand": "Under Armour",
+      "price": 241.12,
+      "style": "Running",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 957,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 82.48,
+      "style": "Training",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 958,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 172.62,
+      "style": "Casual",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 959,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 150.84,
+      "style": "Basketball",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 960,
+      "size": 12,
+      "brand": "Puma",
+      "price": 66.47,
+      "style": "Soccer",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 961,
+      "size": 14,
+      "brand": "Adidas",
+      "price": 105.27,
+      "style": "Walking",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 962,
+      "size": 11,
+      "brand": "Nike",
+      "price": 96.05,
+      "style": "Soccer",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 963,
+      "size": 10,
+      "brand": "Puma",
+      "price": 72.71,
+      "style": "Running",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 964,
+      "size": 12,
+      "brand": "Puma",
+      "price": 163.96,
+      "style": "Soccer",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 965,
+      "size": 11,
+      "brand": "Nike",
+      "price": 70.64,
+      "style": "Soccer",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 966,
+      "size": 12,
+      "brand": "Adidas",
+      "price": 181.52,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 967,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 206.97,
+      "style": "Running",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 968,
+      "size": 11,
+      "brand": "Puma",
+      "price": 74.78,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 969,
+      "size": 8,
+      "brand": "Puma",
+      "price": 80.11,
+      "style": "Casual",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 970,
+      "size": 11,
+      "brand": "Reebok",
+      "price": 232.28,
+      "style": "Walking",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 971,
+      "size": 11,
+      "brand": "Nike",
+      "price": 183.68,
+      "style": "Casual",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 972,
+      "size": 11,
+      "brand": "Puma",
+      "price": 53.82,
+      "style": "Soccer",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 973,
+      "size": 13,
+      "brand": "Reebok",
+      "price": 214.09,
+      "style": "Soccer",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 974,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 204.21,
+      "style": "Training",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 975,
+      "size": 11,
+      "brand": "Nike",
+      "price": 95.32,
+      "style": "Running",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 976,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 105.94,
+      "style": "Running",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 977,
+      "size": 12,
+      "brand": "Nike",
+      "price": 105.13,
+      "style": "Training",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 978,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 57.09,
+      "style": "Training",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 979,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 76.2,
+      "style": "Running",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 980,
+      "size": 12,
+      "brand": "Puma",
+      "price": 146.48,
+      "style": "Basketball",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 981,
+      "size": 8,
+      "brand": "Nike",
+      "price": 109.58,
+      "style": "Training",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 982,
+      "size": 9,
+      "brand": "Reebok",
+      "price": 117.92,
+      "style": "Running",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 983,
+      "size": 9,
+      "brand": "Nike",
+      "price": 108.18,
+      "style": "Basketball",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 984,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 173.5,
+      "style": "Running",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 985,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 222.94,
+      "style": "Training",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 986,
+      "size": 13,
+      "brand": "Nike",
+      "price": 176.19,
+      "style": "Casual",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 987,
+      "size": 10,
+      "brand": "Under Armour",
+      "price": 217.63,
+      "style": "Soccer",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 988,
+      "size": 10,
+      "brand": "Nike",
+      "price": 125.55,
+      "style": "Walking",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 989,
+      "size": 13,
+      "brand": "Under Armour",
+      "price": 74.96,
+      "style": "Running",
+      "rating": 6.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 990,
+      "size": 8,
+      "brand": "Adidas",
+      "price": 247.09,
+      "style": "Training",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 991,
+      "size": 10,
+      "brand": "Puma",
+      "price": 223.84,
+      "style": "Soccer",
+      "rating": 8.5
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 992,
+      "size": 8,
+      "brand": "Reebok",
+      "price": 238.57,
+      "style": "Running",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 993,
+      "size": 9,
+      "brand": "Nike",
+      "price": 136.53,
+      "style": "Basketball",
+      "rating": 4.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 994,
+      "size": 12,
+      "brand": "Adidas",
+      "price": 130.8,
+      "style": "Running",
+      "rating": 5.7
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 995,
+      "size": 9,
+      "brand": "Adidas",
+      "price": 209.5,
+      "style": "Running",
+      "rating": 8.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 996,
+      "size": 8,
+      "brand": "Under Armour",
+      "price": 174.44,
+      "style": "Walking",
+      "rating": 8.9
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 997,
+      "size": 12,
+      "brand": "Reebok",
+      "price": 65.19,
+      "style": "Walking",
+      "rating": 5.0
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 998,
+      "size": 13,
+      "brand": "Puma",
+      "price": 131.5,
+      "style": "Walking",
+      "rating": 4.8
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 999,
+      "size": 13,
+      "brand": "Adidas",
+      "price": 151.8,
+      "style": "Running",
+      "rating": 7.2
+    }
+  },
+  {
+    "shoeDetails": {
+      "shoe_id": 1000,
+      "size": 11,
+      "brand": "Nike",
+      "price": 60.33,
+      "style": "Basketball",
+      "rating": 4.0
+    }
+  }
+]
