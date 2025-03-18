@@ -1,0 +1,32 @@
+[
+  {
+    "shoeDetails": {
+      "size": 11,
+      "brand": "Nike",
+      "price": 100.00,
+      "style": "Running",
+      "rating": 4.5,    
+      "addedTimestamp": "2024-01-26T20:53:12.519940"
+    }
+},
+{
+    "shoeDetails": {
+      "size": 11,
+      "brand": "Underarmor",
+      "price": 150.00,
+      "style": "Baskeball",
+      "rating": 7.5,    
+      "addedTimestamp": "2024-01-26T20:53:12.519940"
+  }
+},
+{
+    "shoeDetails": {
+      "size": 12,
+      "brand": "Adidas",
+      "price": 200.00,
+      "style": "Soccer",
+      "rating": 8.5,    
+      "addedTimestamp": "2024-01-26T20:53:12.519940"
+    }
+}
+]
