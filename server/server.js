@@ -38,6 +38,7 @@ app.get('/shoes', async (req, res) => {
         const collection = db.collection(collectionName);
         const shoes = await collection.find({}).toArray();
         res.json(shoes);
+        console.log('SHOE:', shoes)
     } catch (err) {
         console.error("Error in Server.js - GET Shoes:", err);
         res.status(500).send("Hmmm, something smells... No shoes for you! ☹");
