@@ -1,31 +1,17 @@
-import React from "react";
+import React, { useState }from "react";
+import Home from "./Home";
 ;
 
 const ShoeCard = ({ data }) => {
-  // console.log("Shoe data:", data);
+  // console.log("ShoeCard data:", data, shoe);
+  const [cart, setCart] = useState([]);
 
-
-
-//  const handleDelete = async (shoe_id) => {
-//    try {
-//      // Make an API request to delete the sock with the given sockId
-//      const response = await fetch(
-//        `${import.meta.env.VITE_MONGO_DB_URL}/${shoe_id}`,
-//        {
-//          method: "DELETE",
-//        }
-//      );
-//      if (!response.ok) {
-//        throw new Error("Shoe could not be deleted!");
-//      }
-//      // Update the state or fetch the updated data from the server
-//      const updatedData = data.filter((shoe) => sock._id !== sockId); // Remove the deleted sock from the data array
-//      setData(updatedData); // Update the state with the updated data
-//    } catch (error) {
-//      console.error("Error deleting sock:", error);
-//    }
-//  };
-
+   const addToCart = (shoe) => {
+     console.log("Shoe added to cart:", shoe);
+     setCart([...cart, shoe]);
+    
+   };
+  
   return (
     <>
        <div
@@ -39,7 +25,7 @@ const ShoeCard = ({ data }) => {
           <div className="card-text">Price: ${data.price}</div>
           <div className="card-text">Style: {data.style}</div>
           <div className="card-text">Rating: {data.rating}</div>
-          <button>Add to Cart</button>
+          <button onClick= {() => addToCart(data)}>Add to Cart</button>
         </div> 
         </div>
       
