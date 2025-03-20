@@ -36,11 +36,7 @@ const Home = (props) => {
 
  
 
-  const deleteFromCart = (shoe_id) => {
-    const updatedCart = cart.filter((shoe) => shoe.shoe_id !== shoe_id);
-    setCart(updatedCart);
-  }
-
+  
   return (
     <>
       <div>HOME PAGE</div>

@@ -6,20 +6,19 @@ const NavBar = () => {
     <nav className="navbar">
       <ul className="navbar-list">
         <li className="navbar-item">
-          <a href="#home" className="navbar-link">
-            <Link>Home</Link>
-            
-          </a>
+          <Link to="/" className="navbar-link">
+            Home
+          </Link>
         </li>
         <li className="navbar-item">
-          <a href="#category" className="navbar-link">
-            <Link>Category</Link>
-          </a>
+          <Link to="/category" className="navbar-link">
+            Category
+          </Link>
         </li>
         <li className="navbar-item">
-          <a href="#cart" className="navbar-link">
-            <Link>Cart</Link>
-          </a>
+          <Link to="/cart" className="navbar-link">
+            Cart
+          </Link>
         </li>
       </ul>
     </nav>
