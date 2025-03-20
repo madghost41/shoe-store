@@ -1,8 +1,7 @@
-import express from 'express';
-import { promises as fs } from 'fs';
-import { MongoClient, ObjectId } from 'mongodb';
-import dotenv from 'dotenv';
-import cors from 'cors';
+import express from "express";
+import { MongoClient, ObjectId } from "mongodb";
+import dotenv from "dotenv";
+import cors from "cors";
 
 dotenv.config();
 const url = process.env.VITE_MONGO_DB_URL; // MongoDB URL
@@ -17,51 +16,105 @@ app.use(cors()); // Enable CORS for all routes
 app.use(express.json()); // Middleware to parse JSON bodies
 
 // MongoDB connection
-const client = new MongoClient(process.env.VITE_MONGO_DB_URL, { useNewUrlParser: true, useUnifiedTopology: true });
+const client = new MongoClient(url, {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+});
 
 async function connectToDatabase() {
-    try {
-        await client.connect();
-        console.log('Connected to MongoDB');
-    } catch (error) {
-        console.error('Error connecting to MongoDB:', error);
-    }
+  try {
+    await client.connect();
+    console.log("Connected to MongoDB");
+  } catch (error) {
+    console.error("Error connecting to MongoDB:", error);
+    process.exit(1); // Exit the process if the connection fails
+  }
 }
 
+connectToDatabase();
 
 // GET ALL SHOES - WORKS
 // http://localhost:3000/shoes
-app.get('/shoes', async (req, res) => {
-    try {
-        const client = await MongoClient.connect(url);
-        const db = client.db(dbName);
-        const collection = db.collection(collectionName);
-        const shoes = await collection.find({}).toArray();
-        res.json(shoes);
-    } catch (err) {
-        console.error("Error in Server.js - GET Shoes:", err);
-        res.status(500).send("Hmmm, something smells... No shoes for you! ☹");
-    }
+app.get("/shoes", async (req, res) => {
+  try {
+    const db = client.db(dbName);
+    const collection = db.collection(collectionName);
+    const shoes = await collection.find({}).toArray();
+    res.json(shoes);
+  } catch (err) {
+    console.error("Error in Server.js - GET Shoes:", err);
+    res
+      .status(500)
+      .json({ error: "Hmmm, something smells... No shoes for you! ☹" });
+  }
 });
 
 // GET 1 SHOE - WORKS
 // http://localhost:3000/shoes/123
-app.get('/shoes/:id', async (req, res) => {
+app.get("/shoes/:id", async (req, res) => {
+  try {
+    const db = client.db(dbName);
+    const _id = parseInt(req.params.id);
+
+    console.log("_id:", _id);
+    const collection = db.collection(collectionName); // 'shoes'
+    const shoes = await collection
+      .find({ "shoeDetails.shoe_id": _id })
+      .toArray();
+
+    console.log("Shoes Query result:", shoes);
+    res.json(shoes);
+  } catch (err) {
+    console.error("Error in Server.js - GET Shoes:", err);
+    res
+      .status(500)
+      .json({ error: "Hmmm, something smells... No shoes for you! ☹" });
+  }
+});
+
+
+// Search
+app.post('/search', async (req, res) => {
     try {
+        // let searchTerm = 'puma'
+        // searchTerm = req.params
+        const { searchTerm } = req.body;
+        console.log("req.body:", req.body)
         const client = await MongoClient.connect(url);
         const db = client.db(dbName);
-        const _id = parseInt(req.params.id);
-
-        console.log("_id:", _id)
-        const collection = db.collection(collectionName); // 'shoes'
-        const shoes = await collection.find({ "shoeDetails.shoe_id": _id}).toArray();
-
-        console.log("Shoes Query result:", shoes);
+        const collection = db.collection(collectionName);
+        const regex = new RegExp(searchTerm, 'i'); // Create a case-insensitive regular expression
+        const shoes = await collection.find({ 'shoeDetails.brand': regex }).toArray();
+        // console.log(':', regex)
         res.json(shoes);
     } catch (err) {
-        console.error("Error in Server.js - GET Shoes:", err);
-        res.status(500).send("Hmmm, something smells... No shoes for you! ☹");
+        console.error('Error:', err);
+        res.status(500).send('Hmm, something doesn\'t smell right... Error searching for socks');
     }
+});
+
+
+// Page Navigation
+app.get("/shoes/:page/:limit", async (req, res) => {
+  try {
+    let { page, limit } = req.params;
+    limit = +limit; // The + converts limit from a string to integer.
+    const db = client.db(dbName);
+    const collection = db.collection(collectionName);
+    const shoes = await collection
+      .find({})
+      .skip((page - 1) * limit)
+      .limit(limit)
+      .toArray();
+    res.json(shoes);
+  } catch (err) {
+    console.error("Error:", err);
+    res
+      .status(500)
+      .json({
+        error: "Hmm, something doesn't smell right... Error fetching shoes! ☹",
+      });
+  }
 });
 
 // Example route
@@ -71,6 +124,5 @@ app.get('/shoes/:id', async (req, res) => {
 
 // Start server
 app.listen(port, () => {
-    console.log(`Server is running on port ${port}`);
-    connectToDatabase(); // turned off for now
+  console.log(`Server is running on port ${port}`);
 });

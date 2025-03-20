@@ -3,6 +3,7 @@ import Home from './components/Home'
 import NavBar from './components/NavBar'
 import './App.css'
 import ShoeCard from './components/ShoeCard'
+import Search from './components/search'
 
 function App() {
   
@@ -10,8 +11,8 @@ function App() {
   return (
     <>
       <NavBar />
+      <Search />
       <Home  />
-      
      
     </>
   )

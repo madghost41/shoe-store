@@ -10,7 +10,6 @@ setup data json
 # to-do
 python data predictions
 return python predsiction results to app
-
 react components
     landing
     navBar - Homer, list, search, cart,
@@ -23,13 +22,23 @@ react components
     shoe details
     cart page
 
-server CRUD functions
-    get 1 shoe
-    get many shoes
-
+React  Cart - store in react UseStae
     Get shoes in cart
-    Post shoe to cart
+    Add Shoe to cart
     Delete shoe from cart
+
+Optional Cart storage- store in Session variable
+    Get shoes in cart
+    Add Shoe to cart
+    Delete shoe from cart
+
+server CRUD functions
+    get 1 shoe api endpoint - DONE
+    get many shoes - DONE
+
+Database - puchases
+    Get - Search shoes
+    Post - purchased shoes in cart to the database - Nate
 
 maybe's
     Jest Testing
