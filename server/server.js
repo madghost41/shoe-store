@@ -5,7 +5,7 @@ import dotenv from 'dotenv';
 import cors from 'cors';
 
 dotenv.config();
-const url = process.env.MONGO_DB_URL; // MongoDB URL
+const url = process.env.VITE_MONGO_DB_URL; // MongoDB URL
 const dbName = process.env.MONGO_DB; //  Database Name
 const collectionName = process.env.MONGO_DB_COLLECTION; //  Database Collection name
 
@@ -17,7 +17,7 @@ app.use(cors()); // Enable CORS for all routes
 app.use(express.json()); // Middleware to parse JSON bodies
 
 // MongoDB connection
-const client = new MongoClient(process.env.MONGO_DB_URL, { useNewUrlParser: true, useUnifiedTopology: true });
+const client = new MongoClient(process.env.VITE_MONGO_DB_URL, { useNewUrlParser: true, useUnifiedTopology: true });
 
 async function connectToDatabase() {
     try {
