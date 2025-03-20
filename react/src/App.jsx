@@ -13,6 +13,7 @@ function App() {
     <>
       <Router>
         <NavBar />
+        <Search />
         <Routes>
           <Route path="/" element={<Home />}
           />
