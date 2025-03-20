@@ -5,7 +5,7 @@ import dotenv from 'dotenv';
 import cors from 'cors';
 
 dotenv.config();
-const url = process.env.MONGO_DB_URL; // MongoDB URL
+const url = process.env.VITE_MONGO_DB_URL; // MongoDB URL
 const dbName = process.env.MONGO_DB; //  Database Name
 const collectionName = process.env.MONGO_DB_COLLECTION; //  Database Collection name
 
