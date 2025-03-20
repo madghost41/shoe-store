@@ -72,6 +72,28 @@ app.get("/shoes/:id", async (req, res) => {
   }
 });
 
+
+// Search
+app.post('/search', async (req, res) => {
+    try {
+        // let searchTerm = 'puma'
+        // searchTerm = req.params
+        const { searchTerm } = req.body;
+        console.log("req.body:", req.body)
+        const client = await MongoClient.connect(url);
+        const db = client.db(dbName);
+        const collection = db.collection(collectionName);
+        const regex = new RegExp(searchTerm, 'i'); // Create a case-insensitive regular expression
+        const shoes = await collection.find({ 'shoeDetails.brand': regex }).toArray();
+        // console.log(':', regex)
+        res.json(shoes);
+    } catch (err) {
+        console.error('Error:', err);
+        res.status(500).send('Hmm, something doesn\'t smell right... Error searching for socks');
+    }
+});
+
+
 // Page Navigation
 app.get("/shoes/:page/:limit", async (req, res) => {
   try {
