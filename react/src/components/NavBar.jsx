@@ -2,16 +2,22 @@
 
 const NavBar = () => {
   return (
-    <nav>
-      <ul>
-        <li>
-          <div>Home</div>
+    <nav className="navbar">
+      <ul className="navbar-list">
+        <li className="navbar-item">
+          <a href="#home" className="navbar-link">
+            Home
+          </a>
         </li>
-        <li>  
-          <div>Shoe</div>
+        <li className="navbar-item">
+          <a href="#category" className="navbar-link">
+            Category
+          </a>
         </li>
-        <li>
-          <div>Cart</div>
+        <li className="navbar-item">
+          <a href="#cart" className="navbar-link">
+            Cart
+          </a>
         </li>
       </ul>
     </nav>
