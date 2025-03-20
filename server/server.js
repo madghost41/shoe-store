@@ -30,7 +30,7 @@ async function connectToDatabase() {
 
 
 // GET ALL SHOES - WORKS
-// http://localhost:3000/shoes
+// GET ALL SHOES - WORKS
 app.get('/shoes', async (req, res) => {
     try {
         const client = await MongoClient.connect(url);
