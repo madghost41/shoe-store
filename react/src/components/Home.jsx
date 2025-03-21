@@ -4,6 +4,7 @@ import ShoeCard from "./ShoeCard";
 const Home = (props) => {
   const [data, setData] = useState([]);
   const [page, setPage] = useState(1);
+  const [cart, setCart] = useState([]);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -33,6 +34,9 @@ const Home = (props) => {
     setPage(page - 1);
   };
 
+ 
+
+  
   return (
     <>
       <div>HOME PAGE</div>
