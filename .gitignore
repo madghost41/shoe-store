@@ -8,3 +8,7 @@ node_modules/
 temp/
 
 .env
+
+# Ignore macOS system files
+.DS_Store
+**/.DS_Store
