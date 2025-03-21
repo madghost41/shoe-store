@@ -35,9 +35,9 @@ const ShoeCard = ({ data }) => {
           <h5 className="card-title">Shoe Details</h5>
           <div className="card-text">Size: {data.size}</div>
           <div className="card-text">Brand: {data.brand}</div>
-          <div className="card-text">Price: ${data.price}</div>
+          {/* <div className="card-text">Price: ${data.price}</div> */}
           <div className="card-text">Style: {data.style}</div>
-          <div className="card-text">Rating: {data.rating}</div>
+          {/* <div className="card-text">Rating: {data.rating}</div> */}
           <button onClick={() => addToCart(data)}>Add to Cart</button>
           <button onClick={handleMoreInfo}>More Info</button>
         </div>

@@ -27,6 +27,7 @@ const ShoeDetails = () => {
         <p><strong>Price:</strong> ${shoeDetails.price}</p>
         <p><strong>Size:</strong> {shoeDetails.size}</p>
         <p><strong>Style:</strong> {shoeDetails.style}</p>
+        <p><strong>Rating:</strong> {shoeDetails.rating}</p>
         {/* Add more details as needed */}
         <button className="add-to-cart-button" onClick={() => addToCart(shoeDetails)}>Add to Cart</button>
       </div>
