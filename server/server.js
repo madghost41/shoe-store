@@ -73,7 +73,8 @@ app.get("/shoes/:id", async (req, res) => {
 });
 
 
-// Search
+// Search dynamicly - category and search term
+// http://localhost:3000/search
 app.post('/search', async (req, res) => {
     try {
         // searchTerm = req.params
@@ -94,7 +95,7 @@ app.post('/search', async (req, res) => {
             // If searchTerm is a number, convert it to an integer
             query[`shoeDetails.${categoryName}`] = parseInt(searchTerm);
         }
-        
+
         const shoes = await collection.find(query).toArray();
         
         // const shoes = await collection.find({ 'shoeDetails.brand': regex }).toArray();
