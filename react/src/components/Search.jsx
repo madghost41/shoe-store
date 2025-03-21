@@ -4,7 +4,7 @@ import "./search.css";
 
 const Search = (props) => {
   const [searchTerm, setSearchTerm] = useState("");
-  const [category, setCategory] = useState("all");
+  const [categoryName, setCategoryName] = useState("all");
 
 
    const [data, setData] = useState([]);
@@ -48,7 +48,7 @@ const Search = (props) => {
 
     fetch(url, {
       method: "POST",
-      body: JSON.stringify({ searchTerm }),
+      body: JSON.stringify({ searchTerm, categoryName }),
       headers: {
         "Content-Type": "application/json",
       },
@@ -75,12 +75,13 @@ const Search = (props) => {
     console.log(searchTerm);
   };
 
-  const handleCategoryChange = (e) => {
-    setCategory(e.target.value);
-    console.log("category:", category);
+  const handleCategoryNameChange = (e) => {
+    setCategoryName(e.target.value);
+    console.log("categoryName:", categoryName);
   };
 
   return (
+    <div className="center">
     <div className="search-container">
       <header className="search-header">
         <h1>Welcome to the Shoe Store</h1>
@@ -98,17 +99,20 @@ const Search = (props) => {
         />
         <select
           className="search-select"
-          value={category}
-          onChange={handleCategoryChange}
+          value={categoryName}
+          onChange={handleCategoryNameChange}
         >
           <option value="all">All</option>
-          <option value="shoes">Brand</option>
-          <option value="accessories">Style</option>
+          <option value="brand">Brand</option>
+          <option value="style">Style</option>
+          <option value="price">Price</option>
+          <option value="size">Size</option>
         </select>
         <button className="search-button" type="submit">
           Search
         </button>
       </form>
+      </div>
       <br></br>
 
       <div className="pagination-buttons">
