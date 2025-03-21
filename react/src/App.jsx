@@ -7,6 +7,7 @@ import Category from "./components/Category";
 import "./App.css";
 import ShoeCard from "./components/ShoeCard";
 import Search from './components/search'
+import ShoeDetails from "./components/ShoeDetails";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           />
           <Route path="/cart" element={<Cart />} />
           <Route path="/search" element={<Search />} />          
+          <Route path="/shoe-details" element={<ShoeDetails />} />
 
         </Routes>
       </Router>{" "}

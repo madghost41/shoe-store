@@ -4,7 +4,7 @@ import "./search.css";
 
 const Search = (props) => {
   const [searchTerm, setSearchTerm] = useState("");
-  const [categoryName, setCategoryName] = useState("all");
+  const [categoryName, setCategoryName] = useState("brand");
   const [data, setData] = useState([]);
   const [page, setPage] = useState(1);
   const [cart, setCart] = useState([]);
@@ -40,16 +40,22 @@ const Search = (props) => {
   }, [searchTerm, categoryName, page]);
 
   const handleNextPage = () => {
-    setPage(page + 1);
+    setPage((prevPage) => prevPage + 1);
   };
 
   const handlePreviousPage = () => {
-    setPage(page - 1);
+    setPage((prevPage) => Math.max(prevPage - 1, 1));
   };
 
   const handleSubmit = (e) => {
     e.preventDefault();
     setPage(1); // Reset to first page on new search
+  };
+
+  const handleClear = () => {
+    setSearchTerm("");
+    setCategoryName("brand");
+    setPage(1);
   };
 
   const handleChange = (e) => {
@@ -83,14 +89,17 @@ const Search = (props) => {
             value={categoryName}
             onChange={handleCategoryNameChange}
           >
-            <option value="all">All</option>
+            {/* <option value="all">All</option> */}
             <option value="brand">Brand</option>
             <option value="style">Style</option>
-            <option value="price">Price</option>
+            {/* <option value="price">Price</option> */}
             <option value="size">Size</option>
           </select>
           <button className="search-button" type="submit">
             Search
+          </button>
+          <button className="clear-button" type="button" onClick={handleClear}>
+            Clear
           </button>
         </form>
       </div>

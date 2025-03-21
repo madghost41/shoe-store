@@ -27,16 +27,13 @@ const Home = (props) => {
   }, [page]);
 
   const handleNextPage = () => {
-    setPage(page + 1);
+    setPage((prevPage) => prevPage + 1);
   };
 
   const handlePreviousPage = () => {
-    setPage(page - 1);
+    setPage((prevPage) => Math.max(prevPage - 1, 1));
   };
 
- 
-
-  
   return (
     <>
       <div>HOME PAGE</div>

@@ -1,0 +1,65 @@
+.shoe-details {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 20px;
+}
+
+.shoe-details h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.shoe-details p {
+  font-size: 18px;
+  margin: 5px 0;
+}
+
+.shoe-details-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f5f5f5;
+}
+
+.shoe-details-card {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 500px;
+  width: 100%;
+  text-align: center;
+}
+
+.shoe-details-card h1 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.shoe-details-card p {
+  font-size: 18px;
+  margin: 10px 0;
+  color: #555;
+}
+
+.shoe-details-card p strong {
+  color: #000;
+}
+
+.add-to-cart-button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.add-to-cart-button:hover {
+  background-color: #0056b3;
+}
