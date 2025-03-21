@@ -142,7 +142,7 @@ app.post('/saveShoes', async (req, res) => {
     try {
       await client.connect();
       const db = client.db(dbName);
-      const collection = db.collection('shoes');
+      const collection = db.collection('purchases'); // -- NEW COLLECTION --
   
       const shoes = req.body.shoes;
   

@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import ShoeCard from "./ShoeCard";
+import "./Home.css"; // Import the CSS file
 
 const Home = (props) => {
   const [data, setData] = useState([]);
@@ -35,10 +36,12 @@ const Home = (props) => {
   };
 
   return (
-    <>
-      <div>HOME PAGE</div>
-      <button onClick={handleNextPage}>Next</button>
-      <button onClick={handlePreviousPage}>Previous</button>
+    <div className="home-container">
+      <div className="home-header">HOME PAGE</div>
+      <div className="button-container">
+        <button onClick={handleNextPage}>Next</button>
+        <button onClick={handlePreviousPage}>Previous</button>
+      </div>
       <div
         className="card-container"
         style={{ display: "flex", flexWrap: "wrap", gap: "20px" }}
@@ -47,7 +50,7 @@ const Home = (props) => {
           <ShoeCard key={shoe.shoeDetails.shoe_id} data={shoe.shoeDetails} />
         ))}
       </div>
-    </>
+    </div>
   );
 };
 

@@ -1,46 +1,87 @@
 
+# Capstone Project: Online Store
+
+### Software Engineers (EDP)
+Stephen Thomas  
+Nate Notermann
+
+## Overview  
+The goal is to build a full-featured **online store** using **React, Node.js, and MongoDB**. The application will allow users to browse, search, and purchase products with a seamless shopping experience.  
+
+### **Key Features**  
+- **Landing Page** – Displays featured products.  
+- **Search & Categories** – Users can search for products or filter by category.  
+- **Product Details** – Each product has a details page with an **"Add to Cart"** button.  
+- **Shopping Cart & Checkout**  
+  - View selected items 
+  <!-- with total price.   -->
+  <!-- - Enter payment and shipping details.   -->
+  - Complete checkout and store order in the database.  
+
+---
+
+## **Building the Application**  
+### **Backend & Database**  
+- Use **MongoDB** to store product and order data.  
+- Build a **Node.js web service** for data handling (CRUD operations).  
+
+### **Frontend**  
+- Develop the **React-based web application** for an interactive UI.  
+
+---
+
+## **Data Analysis & Product Recommendations**  
+- **Generate dummy data** (at least **1000 products**).  
+- Train a **product recommendation model** using:  
+  - `sklearn.neighbors.NearestNeighbors`  
+  - Attributes: **popularity, durability, price** to improve accuracy.  
+- Create a **React component** to send product data to the recommendation model and display suggested products.  
+- Implement a **RESTful API** to communicate with the Python model.  
+  - **Tip:** Use `python-shell` (npm package) or **Flask** for integration.  
+
+---
+
+This document provides a high-level roadmap for developing the **Online Store** project. 
 
 
-# tasks
-setup front end
-setup back end
-setup mongodb
-setup data json
 
-# to-do
-python data predictions
-return python predsiction results to app
-react components
-    landing
-    navBar - Homer, list, search, cart,
-    Login Page 
-    search box
-    list of categories
-        shoe card
-            shoe detials button
-            add to cart
-    shoe details
-    cart page
+## Project To-Do List
+- **Setup boilerplate Frontend -DONE**
+- **Setup boilerplate Backend -DONE**
+- **Setup MongoDB -DONE**
+- **Setup Data JSON -DONE**
 
-React  Cart - store in react UseStae
-    Get shoes in cart
-    Add Shoe to cart
-    Delete shoe from cart
+### Python Data Predictions
+- Implement data predictions in Python  -DONE
+- Return Python prediction results to the app 
 
-Optional Cart storage- store in Session variable
-    Get shoes in cart
-    Add Shoe to cart
-    Delete shoe from cart
+### React Components
+- **Landing Page**  -DONE
+- **Navigation Bar** (Home, Search, Cart)  -DONE
+<!-- - **Login Page**  -->
+- **Search Box  -DONE** 
+- **List of Categories  -DONE**
+  - **Shoe Card  -DONE**
+    - Shoe details button  -DONE
+    - Add to cart  -DONE
+- **Shoe Details Page  -DONE*
+- **Cart Page  -DONE**
 
-server CRUD functions
-    get 1 shoe api endpoint - DONE
-    get many shoes - DONE
+### Optional: Cart Storage in Session Variable
+- Get shoes in cart  -DONE
+- Add shoe to cart  -DONE
+- Clear cart -DONE
+- Delete shoe from cart 
 
-Database - puchases
-    Get - Search shoes
-    Post - purchased shoes in cart to the database - Nate
+### Server CRUD Functions
+- **Get one shoe API endpoint** -DONE
+- **Get multiple shoes API endpoint** -DONE
+- **Get multiple shoes using paging** -DONE
+- **Get dynamically search shoes** -DONE
 
-maybe's
-    Jest Testing
-    
+### Database - Purchases
+- **Post:** Save purchased shoes in cart to the database -DONE
 
+## Maybe's
+- Jest Testing
+- **Get:** Purchased shoes
