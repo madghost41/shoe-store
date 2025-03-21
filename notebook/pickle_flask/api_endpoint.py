@@ -16,11 +16,13 @@ if not os.path.exists(MODEL_PATH):
 recommender = ShoeRecommender.load_model(MODEL_PATH)
 print("Recommender model loaded successfully!")
 
-@app.route('/recommend', methods=['GET'])
+@app.route('/recommend/:shoe_id', methods=['GET'])
 def get_recommendations():
     """API endpoint to get shoe recommendations."""
     # Get parameters from request
-    shoe_id = request.args.get('shoe_id', type=int)
+    shoe_id = request.params.shoe_id
+    print(shoe_id)
+    # shoe_id = request.args.get('shoe_id', type=int)
     count = request.args.get('count', default=3, type=int)
     
     # Validate parameters

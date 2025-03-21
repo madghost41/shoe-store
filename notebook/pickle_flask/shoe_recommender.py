@@ -133,11 +133,11 @@ class ShoeRecommender:
 # Usage example for training and saving the model
 if __name__ == "__main__":
     # Create and train the recommender
-    file_path = "shoe_inventory.csv"  # Replace with your actual file path
+    file_path = "new_shoes.csv"  # Replace with your actual file path
     recommender = ShoeRecommender(n_neighbors=5).fit(file_path)
     
     # Test the recommender
-    selected_shoe_id = 1001  # Replace with an actual shoe ID from your data
+    selected_shoe_id = 100  # Replace with an actual shoe ID from your data
     recommendations = recommender.recommend(selected_shoe_id)
     
     print(f"Recommended shoes similar to shoe ID {selected_shoe_id}:")
