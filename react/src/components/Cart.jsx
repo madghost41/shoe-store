@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 
-
 const Cart = ({ cartItems }) => {
   const [cart, setCart] = useState([]);
   const key = "cart";
@@ -18,6 +17,40 @@ const Cart = ({ cartItems }) => {
     sessionStorage.setItem(key, JSON.stringify(updatedCart));
   };
 
+  const saveShoesToDatabase = async () => {
+    try {
+      const savedCart = sessionStorage.getItem(key);
+      const shoes = savedCart ? JSON.parse(savedCart) : [];
+
+      const response = await fetch("http://localhost:3000/saveShoes", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ shoes }),
+      });
+
+      if (!response.ok) {
+        throw new Error("Error saving shoes to database");
+      }
+
+      const contentType = response.headers.get("content-type");
+      let result;
+      if (contentType && contentType.indexOf("application/json") !== -1) {
+        console.log("Response is JSON, parsing...", contentType);
+        result = await response.json();
+        console.log('response', response)
+      } else {
+        console.log("Response is not JSON, trying text...", contentType);
+        result = await response.text();
+        console.log('response', response)
+      }
+      
+      console.log("Shoes saved to database:", result);
+    } catch (error) {
+      console.error("Error saving shoes to database:", error);
+    }
+  };
 
   return (
     <div>
@@ -26,7 +59,7 @@ const Cart = ({ cartItems }) => {
         {cart && cart.length > 0 ? (
           cart.map((shoe, index) => (
             <li key={index}>
-              {shoe.style} - ${shoe.price}
+              {shoe.brand}, {shoe.size}, {shoe.rating}, {shoe.style} - ${shoe.price}
               <button onClick={() => deleteFromCart(shoe.id)}>Remove</button>
             </li>
           ))
@@ -34,6 +67,10 @@ const Cart = ({ cartItems }) => {
           <p>Your cart is empty</p>
         )}
       </ul>
+      <br />
+      {cart && cart.length > 0 ? (
+        <button onClick={saveShoesToDatabase}>Confirm Purchase</button>
+      ) : null}
     </div>
   );
 };

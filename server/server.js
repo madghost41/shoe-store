@@ -134,6 +134,40 @@ app.get("/shoes/:page/:limit", async (req, res) => {
   }
 });
 
+
+// purchase shoes in cart
+app.post('/saveShoes', async (req, res) => {
+    const client = new MongoClient(url, { useNewUrlParser: true, useUnifiedTopology: true });
+  
+    try {
+      await client.connect();
+      const db = client.db(dbName);
+      const collection = db.collection('shoes');
+  
+      const shoes = req.body.shoes;
+  
+      const formattedShoes = shoes.map(shoe => ({
+        shoeDetails: {
+          shoe_id: shoe.shoe_id,
+          size: shoe.size,
+          brand: shoe.brand,
+          price: shoe.price,
+          style: shoe.style,
+          rating: shoe.rating
+        }
+      }));
+  
+      await collection.insertMany(formattedShoes);
+      res.status(200).send('Shoes saved to database');
+    } catch (err) {
+      res.status(500).send(err.toString());
+    } finally {
+      await client.close();
+    }
+  });
+
+
+
 // Example route
 // app.get('/', (req, res) => {
 //     res.send('Hello, World!');
