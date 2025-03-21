@@ -45,10 +45,10 @@ const Search = (props) => {
     e.preventDefault();
 
     const url = `http://localhost:3000/search`;
-
+    let limit = 5
     fetch(url, {
       method: "POST",
-      body: JSON.stringify({ searchTerm, categoryName }),
+      body: JSON.stringify({ searchTerm, categoryName, page, limit }),
       headers: {
         "Content-Type": "application/json",
       },
@@ -116,9 +116,11 @@ const Search = (props) => {
       <br></br>
 
       <div className="pagination-buttons">
+
         <button className="pagination-button" onClick={handlePreviousPage}>
           Previous
         </button>
+
         <button className="pagination-button" onClick={handleNextPage}>
           Next
         </button>
