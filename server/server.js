@@ -76,16 +76,29 @@ app.get("/shoes/:id", async (req, res) => {
 // Search
 app.post('/search', async (req, res) => {
     try {
-        // let searchTerm = 'puma'
         // searchTerm = req.params
-        const { searchTerm } = req.body;
+        // req.body.categoryName = "style";
+        const { searchTerm, categoryName } = req.body;
         console.log("req.body:", req.body)
         const client = await MongoClient.connect(url);
         const db = client.db(dbName);
         const collection = db.collection(collectionName);
         const regex = new RegExp(searchTerm, 'i'); // Create a case-insensitive regular expression
-        const shoes = await collection.find({ 'shoeDetails.brand': regex }).toArray();
-        // console.log(':', regex)
+        
+        let query = {};
+        if (isNaN(searchTerm)) {
+            // If searchTerm is not a number, use regex for string matching
+            const regex = new RegExp(searchTerm, 'i'); // Create a case-insensitive regular expression
+            query[`shoeDetails.${categoryName}`] = regex; // Dynamically set the field name
+        } else {
+            // If searchTerm is a number, convert it to an integer
+            query[`shoeDetails.${categoryName}`] = parseInt(searchTerm);
+        }
+        
+        const shoes = await collection.find(query).toArray();
+        
+        // const shoes = await collection.find({ 'shoeDetails.brand': regex }).toArray();
+        console.log('shoe response:', shoes)
         res.json(shoes);
     } catch (err) {
         console.error('Error:', err);
