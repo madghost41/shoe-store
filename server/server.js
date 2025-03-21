@@ -77,9 +77,8 @@ app.get("/shoes/:id", async (req, res) => {
 // http://localhost:3000/search
 app.post('/search', async (req, res) => {
     try {
-        // searchTerm = req.params
-        // req.body.categoryName = "style";
-        const { searchTerm, categoryName } = req.body;
+
+        const { searchTerm, categoryName, page, limit} = req.body;
         console.log("req.body:", req.body)
         const client = await MongoClient.connect(url);
         const db = client.db(dbName);
@@ -96,7 +95,11 @@ app.post('/search', async (req, res) => {
             query[`shoeDetails.${categoryName}`] = parseInt(searchTerm);
         }
 
-        const shoes = await collection.find(query).toArray();
+        const shoes = await collection
+        .find(query)
+        .skip((page - 1) * limit)
+        .limit(limit)
+        .toArray();
         
         // const shoes = await collection.find({ 'shoeDetails.brand': regex }).toArray();
         console.log('shoe response:', shoes)
