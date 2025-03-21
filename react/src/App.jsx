@@ -12,14 +12,15 @@ function App() {
   return (
     <>
       <Router>
+        
         <NavBar />
-        <Search />
+
         <Routes>
           <Route path="/" element={<Home />}
           />
           <Route path="/cart" element={<Cart />} />
-          <Route path="/category" element={<Category />} />
-          
+          <Route path="/search" element={<Search />} />          
+
         </Routes>
       </Router>{" "}
     </>
