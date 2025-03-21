@@ -113,6 +113,7 @@ const Search = (props) => {
           Next
         </button>
       </div>
+      <br></br>
       <div className="card-container">
         {data.length > 0 ? (
           data.map((shoe) => (
